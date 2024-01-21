@@ -1,0 +1,2549 @@
+Overall Rating,Type Of Traveller,Seat Type,Arrival City,A Country UV,UVA Coordinates,Departure City,D Country UV,UVD Coordinates,Date Flown
+8,Couple Leisure,Business  ,London,United Kingdom,,Dublin,Ireland,,11/1/2023
+1,Couple Leisure,Economy  ,London,United Kingdom,,Lisbon,Portugal,,11/1/2023
+2,Family Leisure,Economy  ,London,United Kingdom,,Atlanta,United States,,11/1/2023
+8,Couple Leisure,Business  ,Dublin,Ireland,,London,United Kingdom,,11/1/2023
+7,Business,Economy  ,London,United Kingdom,,Cairo,Egypt,,10/1/2023
+1,Couple Leisure,Economy  ,Seattle,United States,,Porto,Portugal,,10/1/2023
+8,Couple Leisure,Economy  ,Malta,Malta,,London,United Kingdom,,10/1/2023
+3,Solo Leisure,Economy  ,London,United Kingdom,,Amsterdam,Netherlands,,10/1/2023
+1,Couple Leisure,Economy  ,London,United Kingdom,,Austin,United States,,10/1/2023
+4,Couple Leisure,Economy  ,London,United Kingdom,,Punta Cana,Dominican Republic,,10/1/2023
+1,Couple Leisure,Business  ,,,,Marseille,France,,8/1/2023
+2,Couple Leisure,Economy  ,Chicago,United States,,Manchester,United Kingdom,,10/1/2023
+2,Couple Leisure,Business  ,,,,Istanbul,Turkey,,9/1/2023
+1,Family Leisure,Economy  ,San Diego,United States,,Marseille,France,,8/1/2023
+1,Business,Premium Economy,Hamburg,Germany,,Las Vegas,United States,,8/1/2023
+1,Family Leisure,Economy  ,London,United Kingdom,,Los Angeles,United States,,7/1/2023
+1,Couple Leisure,Economy  ,London,United Kingdom,,Dalaman,Turkey,,9/1/2023
+1,Couple Leisure,Business  ,London,United Kingdom,,Faro,Portugal,,9/1/2023
+1,Solo Leisure,Economy  ,Kuwait City,Kuwait,,Lisbon,Portugal,,9/1/2023
+1,Couple Leisure,Economy  ,Newark,United States,,London,United Kingdom,,6/1/2023
+2,Family Leisure,Economy  ,London,United Kingdom,,Paris,France,,8/1/2023
+2,Family Leisure,Economy  ,London,United Kingdom,,Algiers,Algeria,,8/1/2023
+1,Solo Leisure,Economy  ,London,United Kingdom,,Vienna,Austria,,8/1/2023
+1,Couple Leisure,Premium Economy,Inverness,United Kingdom,,Los Angeles,United States,,11/1/2022
+8,Couple Leisure,Business  ,Dalaman,Turkey,,London,United Kingdom,,6/1/2023
+2,Couple Leisure,Economy  ,London,United Kingdom,,Dalaman,Turkey,,6/1/2023
+1,Solo Leisure,Business  ,London,United Kingdom,,Miami,United States,,6/1/2023
+2,Solo Leisure,Economy  ,Amman,Jordan,,London,United Kingdom,,7/1/2023
+4,Family Leisure,Premium Economy,Kingston,Jamaica,,London,United Kingdom,,6/1/2023
+3,Couple Leisure,Economy  ,London,United Kingdom,,Naples,Italy,,6/1/2023
+2,Couple Leisure,Economy  ,Cairo,Egypt,,London,United Kingdom,,6/1/2023
+4,Solo Leisure,Economy  ,Amman,Jordan,,London,United Kingdom,,6/1/2023
+1,Couple Leisure,Economy  ,London,United Kingdom,,Funchal,Portugal,,6/1/2023
+1,Family Leisure,Economy  ,Marseille,France,,Seattle,United States,,6/1/2023
+1,Solo Leisure,Economy  ,Bucharest,Romania,,Dallas,United States,,6/1/2023
+1,Business,Economy  ,Seattle,United States,,Edinburgh,United Kingdom,,5/1/2023
+1,Solo Leisure,Economy  ,Las Vegas,United States,,Venice,Italy,,5/1/2023
+1,Couple Leisure,Premium Economy,Dallas,United States,,Madrid,Spain,,5/1/2023
+10,Couple Leisure,Economy  ,London,United Kingdom,,Valencia,Spain,,3/1/2023
+4,Couple Leisure,Business  ,London,United Kingdom,,Nice,France,,5/1/2023
+3,Couple Leisure,Business  ,Los Angeles,United States,,London,United Kingdom,,5/1/2023
+5,Couple Leisure,Business  ,Singapore,Singapore,,London,United Kingdom,,4/1/2023
+1,Couple Leisure,Economy  ,Sweden,Sweden,,Los Angeles,United States,,1/1/2023
+2,Couple Leisure,Premium Economy,Seattle,United States,,Zagreb,Croatia,,4/1/2023
+2,Couple Leisure,Economy  ,Brussels,Belgium,,Los Angeles,United States,,4/1/2023
+5,Couple Leisure,Economy  ,Copenhagen,Denmark,,London,United Kingdom,,4/1/2023
+1,Business,Economy  ,Dublin,Ireland,,London,United Kingdom,,4/1/2023
+2,Couple Leisure,Economy  ,London,United Kingdom,,Malta,Malta,,4/1/2023
+10,Couple Leisure,Business  ,Mexico City,Mexico,,Amsterdam,Netherlands,,3/1/2023
+3,Couple Leisure,Economy  ,London,United Kingdom,,Lanzarote,Spain,,3/1/2023
+1,Couple Leisure,Economy  ,Marrakech,Morocco,,London,United Kingdom,,3/1/2023
+1,Couple Leisure,Economy  ,London,United Kingdom,,Marrakech,Morocco,,3/1/2023
+1,Family Leisure,Economy  ,London,United Kingdom,,Algiers,Algeria,,5/1/2022
+1,Solo Leisure,Economy  ,Munich,Germany,,London,United Kingdom,,3/1/2023
+1,Business,Economy  ,London,United Kingdom,,Amsterdam,Netherlands,,3/1/2023
+2,Couple Leisure,Premium Economy,New York City,United States,,,,,3/1/2023
+1,Solo Leisure,Economy  ,Dublin,Ireland,,Orlando,United States,,12/1/2022
+2,Business,Business  ,London,United Kingdom,,Dubai,United Arab Emirates,,12/1/2022
+1,Couple Leisure,Business  ,Portland,United States,,Tel Aviv,Israel,,3/1/2023
+4,Couple Leisure,Premium Economy,London,United Kingdom,,Las Vegas,United States,,3/1/2023
+3,Couple Leisure,Economy  ,Johannesburg,South Africa,,Los Angeles,United States,,1/1/2023
+2,Solo Leisure,Economy  ,London,United Kingdom,,Alicante,Spain,,1/1/2023
+3,Solo Leisure,Premium Economy,London,United Kingdom,,Athens (Greece),,,4/1/2022
+5,Family Leisure,Economy  ,London,United Kingdom,,Chicago,United States,,12/1/2022
+1,Family Leisure,Economy  ,Istanbul,Turkey,,Vancouver,Canada,,1/1/2023
+4,Couple Leisure,Business  ,London,United Kingdom,,Barbados,Barbados,,12/1/2022
+1,Solo Leisure,Economy  ,Keflavik,Iceland,,London,United Kingdom,,12/1/2022
+1,Business,Business  ,London,United Kingdom,,Frankfurt,Germany,,10/1/2022
+2,Couple Leisure,Premium Economy,London,United Kingdom,,Cancun,Mexico,,11/1/2022
+8,Solo Leisure,Economy  ,Doha,Qatar,,London,United Kingdom,,11/1/2022
+1,Solo Leisure,Economy  ,Milan,Italy,,Dallas,United States,,11/1/2022
+1,Solo Leisure,Business  ,London,United Kingdom,,Nairobi,Kenya,,10/1/2022
+7,Couple Leisure,Economy  ,London,United Kingdom,,Los Angeles,United States,,10/1/2022
+1,Couple Leisure,Economy  ,London,United Kingdom,,Cairo,Egypt,,10/1/2022
+6,Couple Leisure,Economy  ,Dallas,United States,,London,United Kingdom,,9/1/2022
+10,Solo Leisure,Premium Economy,,,,Mexico City,Mexico,,9/1/2022
+4,Solo Leisure,Economy  ,Sydney,Australia,,London,United Kingdom,,9/1/2022
+2,Couple Leisure,Economy  ,London,United Kingdom,,Manchester,United Kingdom,,9/1/2022
+2,Family Leisure,Economy  ,London,United Kingdom,,Rome,Italy,,8/1/2022
+1,Business,Economy  ,,,,Tenerife,Spain,,11/1/2021
+10,Couple Leisure,Economy  ,Berlin,Germany,,London City,United Kingdom,,8/1/2022
+10,Couple Leisure,Economy  ,London,United Kingdom,,New York,United States,,7/1/2022
+1,Family Leisure,Economy  ,Cape Town,South Africa,,London,United Kingdom,,8/1/2022
+8,Couple Leisure,Premium Economy,Dallas Fort Worth,United States,,London,United Kingdom,,5/1/2022
+1,Couple Leisure,Economy  ,Vancouver,Canada,,Amsterdam,Netherlands,,6/1/2022
+5,Couple Leisure,Economy  ,Sao Paulo,Brazil,,,,,7/1/2022
+10,Couple Leisure,Business  ,London,United Kingdom,,Toronto,Canada,,7/1/2022
+2,Solo Leisure,Premium Economy,Nairobi,Kenya,,New York,United States,,7/1/2022
+1,Couple Leisure,Business  ,Dublin,Ireland,,London City,United Kingdom,,7/1/2022
+4,Solo Leisure,Premium Economy,Venice,Italy,,Baltimore,United States,,7/1/2022
+1,Couple Leisure,Premium Economy,London,United Kingdom,,Nairobi,Kenya,,6/1/2022
+1,Family Leisure,Economy  ,Belfast,United Kingdom,,London,United Kingdom,,6/1/2022
+1,Family Leisure,Business  ,,,,,,,6/1/2022
+1,Couple Leisure,Economy  ,London,United Kingdom,,Paris,France,,7/1/2021
+1,Business,Business  ,Miami,United States,,Paris,France,,6/1/2022
+1,Family Leisure,Economy  ,Edmonton,Canada,,,,,6/1/2022
+1,Couple Leisure,Premium Economy,Amsterdam,Netherlands,,Montreal,Canada,,6/1/2022
+4,Business,Economy  ,London,United Kingdom,,Johannesburg,South Africa,,6/1/2022
+1,Couple Leisure,Economy  ,Boston,United States,,,,,6/1/2022
+1,Couple Leisure,Economy  ,,,,,,,6/1/2022
+5,Couple Leisure,Premium Economy,Cancun,Mexico,,London,United Kingdom,,6/1/2022
+4,Couple Leisure,Economy  ,Phoenix,United States,,Hamburg,Germany,,6/1/2022
+9,Solo Leisure,Economy  ,Johannesburg,South Africa,,Toronto,Canada,,5/1/2022
+8,Couple Leisure,Business  ,Johannesburg,South Africa,,London,United Kingdom,,4/1/2022
+1,Family Leisure,Business  ,London,United Kingdom,,Malaga,Spain,,5/1/2022
+2,Couple Leisure,Business  ,Dubrovnik,Croatia,,London,United Kingdom,,5/1/2022
+1,Solo Leisure,Economy  ,London,United Kingdom,,Geneva,Switzerland,,3/1/2022
+2,Solo Leisure,Economy  ,Basel,Switzerland,,Johannesburg,South Africa,,5/1/2022
+1,Business,Economy  ,Glasgow,United Kingdom,,New York,United States,,5/1/2022
+3,Solo Leisure,Economy  ,London,United Kingdom,,Los Angeles,United States,,5/1/2022
+1,Solo Leisure,Economy  ,London,United Kingdom,,Cape Town,South Africa,,4/1/2022
+10,Couple Leisure,Business  ,Dubrovnik,Croatia,,London,United Kingdom,,4/1/2022
+1,Couple Leisure,Economy  ,Johannesburg,South Africa,,Durban,South Africa,,4/1/2022
+1,Couple Leisure,Economy  ,Gothenburg,Sweden,,Manchester,United Kingdom,,4/1/2022
+9,Solo Leisure,Business  ,Chicago,United States,,London,United Kingdom,,3/1/2022
+7,Family Leisure,Economy  ,Glasgow,United Kingdom,,Washington,United States,,4/1/2022
+10,Couple Leisure,Economy  ,Nice,France,,Dallas,United States,,4/1/2022
+1,Solo Leisure,Economy  ,London,United Kingdom,,Paris,France,,3/1/2022
+9,Solo Leisure,Business  ,Edinburgh,United Kingdom,,London,United Kingdom,,4/1/2022
+8,Solo Leisure,Business  ,Vancouver,Canada,,London,United Kingdom,,3/1/2022
+1,Business,Economy  ,London,United Kingdom,,Bologna,Italy,,4/1/2022
+4,Couple Leisure,Business  ,Cape Town,South Africa,,London,United Kingdom,,3/1/2022
+2,Couple Leisure,Economy  ,Sydney,Australia,,,,,3/1/2022
+1,Couple Leisure,Economy  ,Austin,United States,,London,United Kingdom,,3/1/2022
+2,Couple Leisure,Economy  ,London,United Kingdom,,Austin,United States,,3/1/2022
+4,Couple Leisure,Premium Economy,Dubai,United Arab Emirates,,,,,3/1/2022
+4,Couple Leisure,Premium Economy,Male,Maldives,,London,United Kingdom,,3/1/2022
+1,Solo Leisure,Economy  ,London,United Kingdom,,Edinburgh,United Kingdom,,2/1/2022
+2,Business,Business  ,Dublin,Ireland,,London,United Kingdom,,2/1/2022
+8,Couple Leisure,Business  ,Atlanta,United States,,Belfast,United Kingdom,,1/1/2022
+1,Couple Leisure,Economy  ,London,United Kingdom,,Dubai,United Arab Emirates,,1/1/2022
+3,Solo Leisure,Economy  ,New York City,United States,,Newcastle,United Kingdom,,11/1/2021
+3,Family Leisure,Economy  ,Warsaw,Poland,,London,United Kingdom,,12/1/2021
+3,Family Leisure,Economy  ,London,United Kingdom,,Los Angeles,United States,,12/1/2021
+2,Solo Leisure,Economy  ,Stockholm,Sweden,,London,United Kingdom,,11/1/2021
+1,Couple Leisure,Business  ,London,United Kingdom,,Tenerife South,Spain,,11/1/2021
+4,Family Leisure,Economy  ,Mumbai,India,,Dublin,Ireland,,11/1/2021
+2,Solo Leisure,Premium Economy,Gibraltar,Gibraltar,,London,United Kingdom,,11/1/2021
+7,Family Leisure,Economy  ,London,United Kingdom,,Bologna,Italy,,10/1/2021
+3,Business,Economy  ,Prague,Czech Republic,,London,United Kingdom,,10/1/2021
+1,Solo Leisure,Business  ,London,United Kingdom,,Athens (Greece),,,9/1/2021
+1,Couple Leisure,Economy  ,,,,Manchester,United Kingdom,,8/1/2021
+1,Couple Leisure,Economy  ,Manchester,United Kingdom,,Aberdeen,United Kingdom,,8/1/2021
+1,Family Leisure,Economy  ,,,,,,,7/1/2021
+1,Family Leisure,Economy  ,Bucharest,Romania,,Toronto,Canada,,7/1/2021
+2,Business,Business  ,Seattle,United States,,Bangalore,India,,6/1/2021
+8,Couple Leisure,Business  ,Preveza,Greece,,London,United Kingdom,,6/1/2021
+1,Solo Leisure,Economy  ,Sofia,Bulgaria,,London,United Kingdom,,12/1/2020
+4,Business,First  ,Mexico City,Mexico,,London,United Kingdom,,1/1/2021
+1,Family Leisure,Economy  ,London,United Kingdom,,Maldives,Maldives,,12/1/2020
+9,Solo Leisure,Economy  ,,,,Belfast,United Kingdom,,12/1/2020
+10,Solo Leisure,Economy  ,London,United Kingdom,,Paris,France,,9/1/2020
+3,Family Leisure,Economy  ,London,United Kingdom,,Lahore,Pakistan,,12/1/2020
+9,Solo Leisure,Economy  ,London,United Kingdom,,Venice,Italy,,10/1/2020
+2,Business,Business  ,Rome,Italy,,Los Angeles,United States,,6/1/2020
+1,Couple Leisure,Business  ,San Diego,United States,,Barcelona,Spain,,12/1/2019
+1,Couple Leisure,Business  ,Vienna,Austria,,London,United Kingdom,,2/1/2020
+1,Solo Leisure,Economy  ,London,United Kingdom,,Budapest,Hungary,,3/1/2020
+2,Family Leisure,Economy  ,London,United Kingdom,,Marrakesh,Morocco,,8/1/2019
+3,Couple Leisure,Economy  ,Seattle,United States,,,,,3/1/2020
+1,Couple Leisure,Economy  ,London,United Kingdom,,Funchal,Portugal,,3/1/2020
+1,Solo Leisure,Economy  ,London,United Kingdom,,Madrid,Spain,,3/1/2020
+4,Solo Leisure,Economy  ,London,United Kingdom,,Malaga,Spain,,2/1/2020
+1,Solo Leisure,Economy  ,Rio de Janeiro,Brazil,,London,United Kingdom,,2/1/2020
+8,Couple Leisure,Business  ,Cape Town,South Africa,,Johannesburg,South Africa,,1/1/2020
+8,Family Leisure,Economy  ,New York City,United States,,London,United Kingdom,,1/1/2020
+3,Family Leisure,Economy  ,London,United Kingdom,,Los Angeles,United States,,12/1/2019
+7,Couple Leisure,Business  ,Johannesburg,South Africa,,Cape Town,South Africa,,1/1/2020
+8,Couple Leisure,Business  ,London,United Kingdom,,Johannesburg,South Africa,,1/1/2020
+10,Couple Leisure,Business  ,Keflavik,Iceland,,London,United Kingdom,,1/1/2020
+1,Couple Leisure,Economy  ,London,United Kingdom,,Vancouver,Canada,,1/1/2020
+1,Family Leisure,Business  ,Los Angeles,United States,,London,United Kingdom,,1/1/2020
+8,Solo Leisure,Economy  ,Cape Town,South Africa,,Brussels,Belgium,,12/1/2019
+9,Solo Leisure,Economy  ,Sydney,Australia,,Toulouse,France,,12/1/2019
+1,Couple Leisure,Economy  ,Frankfurt,Germany,,London,United Kingdom,,12/1/2019
+1,Couple Leisure,Economy  ,,,,Belfast,United Kingdom,,12/1/2019
+9,Solo Leisure,Business  ,London,United Kingdom,,Singapore,Singapore,,10/1/2019
+8,Couple Leisure,Economy  ,London,United Kingdom,,Sydney,Australia,,11/1/2019
+7,Couple Leisure,Business  ,London,United Kingdom,,Johannesburg,South Africa,,11/1/2019
+10,Solo Leisure,Economy  ,London,United Kingdom,,Sydney,Australia,,11/1/2019
+3,Solo Leisure,Economy  ,London,United Kingdom,,Glasgow,United Kingdom,,11/1/2019
+9,Solo Leisure,Economy  ,London,United Kingdom,,Boston,United States,,11/1/2019
+9,Couple Leisure,Business  ,London,United Kingdom,,Venice,Italy,,9/1/2019
+3,Business,Economy  ,Zurich,Switzerland,,London,United Kingdom,,10/1/2019
+1,Couple Leisure,Economy  ,London,United Kingdom,,Salzburg,Austria,,4/1/2019
+8,Couple Leisure,Economy  ,Amman,Jordan,,London,United Kingdom,,9/1/2019
+1,Couple Leisure,Economy  ,New York City,United States,,London,United Kingdom,,10/1/2019
+9,Couple Leisure,Economy  ,London,United Kingdom,,Abu Dhabi,United Arab Emirates,,10/1/2019
+8,Solo Leisure,Economy  ,London,United Kingdom,,Newcastle,United Kingdom,,10/1/2019
+6,Solo Leisure,Economy  ,Calgary,Canada,,Gothenburg,Sweden,,9/1/2019
+1,Couple Leisure,Premium Economy,Newark,United States,,Madrid,Spain,,10/1/2019
+5,Couple Leisure,Business  ,Kos,Greece,,London,United Kingdom,,10/1/2019
+4,Business,Business  ,London,United Kingdom,,Alicante,Spain,,9/1/2019
+10,Couple Leisure,Business  ,London,United Kingdom,,Austin,United States,,9/1/2019
+1,Couple Leisure,Economy  ,London,United Kingdom,,Jersey,United Kingdom,,9/1/2019
+1,Family Leisure,Economy  ,Chicago,United States,,Zurich,Switzerland,,8/1/2019
+5,Couple Leisure,Business  ,London,United Kingdom,,Kefalonia,Greece,,9/1/2019
+2,Family Leisure,Economy  ,Orlando,United States,,London,United Kingdom,,9/1/2019
+2,Couple Leisure,Business  ,London,United Kingdom,,Johannesburg,South Africa,,9/1/2019
+10,Family Leisure,Economy  ,Chennai,India,,London,United Kingdom,,8/1/2019
+2,Business,Business  ,Chicago,United States,,,,,8/1/2019
+10,Family Leisure,Economy  ,New Orleans,United States,,London,United Kingdom,,11/1/2018
+5,Solo Leisure,Economy  ,London,United Kingdom,,Dubai,United Arab Emirates,,8/1/2019
+10,Family Leisure,Economy  ,London,United Kingdom,,Orlando,United States,,7/1/2019
+2,Solo Leisure,Economy  ,,,,Glasgow,United Kingdom,,8/1/2019
+1,Couple Leisure,Economy  ,London,United Kingdom,,Brussels,Belgium,,8/1/2019
+1,Family Leisure,Economy  ,London,United Kingdom,,Faro,Portugal,,8/1/2019
+8,Family Leisure,Economy  ,London,United Kingdom,,Sofia,Bulgaria,,7/1/2019
+9,Couple Leisure,Economy  ,Buenos Aires,Argentina,,London,United Kingdom,,7/1/2019
+1,Couple Leisure,Economy  ,London,United Kingdom,,Olbia,Italy,,7/1/2019
+7,Solo Leisure,Economy  ,London,United Kingdom,,Vancouver,Canada,,6/1/2019
+3,Solo Leisure,Economy  ,Newcastle,United Kingdom,,Delhi,India,,6/1/2019
+3,Solo Leisure,Economy  ,London,United Kingdom,,Sydney,Australia,,6/1/2019
+10,Couple Leisure,Economy  ,London,United Kingdom,,Seattle,United States,,5/1/2019
+8,Couple Leisure,Business  ,Miami,United States,,London,United Kingdom,,4/1/2019
+1,Business,Business  ,Madrid,Spain,,London,United Kingdom,,4/1/2019
+2,Business,Business  ,Larnaca,Cyprus,,London,United Kingdom,,3/1/2019
+10,Family Leisure,Economy  ,,,,New York,United States,,2/1/2019
+3,Business,Economy  ,London,United Kingdom,,Tampa,United States,,1/1/2019
+4,Business,Economy  ,London,United Kingdom,,Milan,Italy,,11/1/2018
+7,Solo Leisure,Economy  ,London,United Kingdom,,Tenerife,Spain,,12/1/2018
+3,Couple Leisure,Premium Economy,Nassau,Bahamas,,London,United Kingdom,,11/1/2018
+1,Couple Leisure,Business  ,London,United Kingdom,,Milan Malpensa,Italy,,10/1/2018
+1,Couple Leisure,First  ,Calgary,Canada,,Rome,Italy,,9/1/2018
+1,Solo Leisure,Economy  ,Dublin,Ireland,,London,United Kingdom,,9/1/2018
+9,Couple Leisure,First  ,London,United Kingdom,,Dubai,United Arab Emirates,,9/1/2018
+7,Solo Leisure,Premium Economy,Glasgow,United Kingdom,,Miami,United States,,8/1/2018
+10,Solo Leisure,Economy  ,London,United Kingdom,,Düsseldorf,Germany,,8/1/2018
+1,Couple Leisure,Premium Economy,Los Angeles,United States,,London,United Kingdom,,5/1/2018
+3,Couple Leisure,Economy  ,Tampa,United States,,London,United Kingdom,,5/1/2018
+10,Couple Leisure,Economy  ,London,United Kingdom,,Chicago,United States,,4/1/2018
+7,Solo Leisure,Economy  ,Belfast,United Kingdom,,,,,3/1/2018
+5,Solo Leisure,Economy  ,Madrid,Spain,,,,,11/1/2017
+2,Couple Leisure,Economy  ,,,,,,,10/1/2017
+1,Couple Leisure,Economy  ,,,,,,,11/1/2017
+8,Couple Leisure,Business  ,,,,,,,11/1/2017
+3,Solo Leisure,Economy  ,,,,,,,11/1/2017
+3,Solo Leisure,Premium Economy,,,,,,,10/1/2017
+6,Solo Leisure,Business  ,,,,,,,1/1/2017
+6,Solo Leisure,Business  ,,,,,,,12/1/2016
+2,Business,Economy  ,,,,,,,11/1/2017
+5,Solo Leisure,Business  ,,,,,,,11/1/2017
+8,Family Leisure,Business  ,,,,,,,10/1/2017
+2,Business,Business  ,,,,,,,11/1/2017
+1,Family Leisure,Economy  ,,,,,,,10/1/2017
+2,Business,Economy  ,,,,,,,8/1/2017
+6,Couple Leisure,Business  ,,,,,,,11/1/2017
+3,Business,Business  ,,,,,,,11/1/2017
+1,Couple Leisure,Business  ,,,,,,,10/1/2017
+1,Couple Leisure,Business  ,,,,,,,10/1/2017
+1,Family Leisure,Business  ,,,,,,,10/1/2017
+1,Business,Economy  ,,,,,,,11/1/2017
+1,Couple Leisure,Economy  ,,,,,,,11/1/2017
+1,Solo Leisure,Economy  ,,,,,,,11/1/2017
+5,Couple Leisure,Economy  ,,,,,,,11/1/2017
+2,Business,Business  ,,,,,,,10/1/2017
+8,Couple Leisure,Business  ,,,,,,,10/1/2017
+2,Solo Leisure,Premium Economy,,,,,,,9/1/2017
+3,Solo Leisure,Economy  ,,,,,,,10/1/2017
+3,Business,Business  ,,,,,,,10/1/2017
+5,Business,First  ,,,,,,,10/1/2017
+1,Couple Leisure,Economy  ,,,,,,,10/1/2017
+8,Solo Leisure,Economy  ,,,,,,,7/1/2017
+7,Solo Leisure,Economy  ,,,,,,,10/1/2017
+1,Couple Leisure,Business  ,,,,,,,10/1/2017
+3,Couple Leisure,Economy  ,,,,,,,10/1/2017
+7,Solo Leisure,Business  ,,,,,,,10/1/2017
+3,Family Leisure,Economy  ,,,,,,,9/1/2017
+4,Solo Leisure,Economy  ,,,,,,,10/1/2017
+4,Business,Economy  ,,,,,,,10/1/2017
+2,Business,Economy  ,,,,,,,10/1/2017
+7,Couple Leisure,Economy  ,,,,,,,10/1/2017
+5,Couple Leisure,Economy  ,,,,,,,9/1/2017
+2,Couple Leisure,Business  ,,,,,,,10/1/2017
+1,Business,First  ,,,,,,,9/1/2017
+9,Family Leisure,Economy  ,,,,,,,9/1/2017
+7,Solo Leisure,Business  ,,,,,,,10/1/2017
+2,Solo Leisure,Economy  ,,,,,,,10/1/2017
+2,Business,Economy  ,,,,,,,10/1/2017
+3,Solo Leisure,Economy  ,,,,,,,10/1/2017
+7,Couple Leisure,Economy  ,,,,,,,10/1/2017
+10,Family Leisure,Business  ,,,,,,,10/1/2017
+10,Family Leisure,Business  ,,,,,,,10/1/2017
+1,Business,Economy  ,,,,,,,10/1/2017
+3,Couple Leisure,Business  ,,,,,,,9/1/2017
+2,Solo Leisure,Premium Economy,,,,,,,8/1/2017
+8,Solo Leisure,Business  ,,,,,,,10/1/2017
+3,Business,Economy  ,,,,,,,10/1/2017
+1,Solo Leisure,Economy  ,,,,,,,9/1/2017
+4,Solo Leisure,Economy  ,,,,,,,9/1/2017
+2,Couple Leisure,Economy  ,,,,,,,9/1/2017
+5,Couple Leisure,Economy  ,,,,,,,10/1/2017
+2,Couple Leisure,Business  ,,,,,,,10/1/2017
+10,Family Leisure,Economy  ,,,,,,,9/1/2017
+6,Solo Leisure,Economy  ,,,,,,,10/1/2017
+6,Business,Business  ,,,,,,,10/1/2017
+2,Couple Leisure,Economy  ,,,,,,,8/1/2017
+7,Business,Premium Economy,,,,,,,9/1/2017
+6,Solo Leisure,Economy  ,,,,,,,9/1/2017
+4,Business,Economy  ,,,,,,,9/1/2017
+6,Solo Leisure,Economy  ,,,,,,,9/1/2017
+1,Business,Business  ,,,,,,,9/1/2017
+3,Couple Leisure,Business  ,,,,,,,9/1/2017
+3,Business,Business  ,,,,,,,9/1/2017
+9,Business,Economy  ,,,,,,,9/1/2017
+1,Business,First  ,,,,,,,8/1/2017
+7,Couple Leisure,Economy  ,,,,,,,9/1/2017
+7,Couple Leisure,Economy  ,,,,,,,9/1/2017
+4,Couple Leisure,Economy  ,,,,,,,9/1/2017
+9,Couple Leisure,Economy  ,,,,,,,9/1/2017
+10,Solo Leisure,Economy  ,,,,,,,9/1/2017
+8,Solo Leisure,Economy  ,,,,,,,9/1/2017
+6,Solo Leisure,Economy  ,,,,,,,9/1/2017
+5,Couple Leisure,Business  ,,,,,,,9/1/2017
+3,Business,Economy  ,,,,,,,9/1/2017
+3,Business,Economy  ,,,,,,,9/1/2017
+2,Business,Economy  ,,,,,,,9/1/2017
+6,Solo Leisure,Premium Economy,,,,,,,9/1/2017
+1,Family Leisure,Economy  ,,,,,,,9/1/2017
+6,Couple Leisure,Business  ,,,,,,,9/1/2017
+4,Couple Leisure,Business  ,,,,,,,9/1/2017
+3,Business,Business  ,,,,,,,9/1/2017
+9,Couple Leisure,Economy  ,,,,,,,9/1/2017
+2,Couple Leisure,Economy  ,,,,,,,9/1/2017
+8,Family Leisure,Business  ,,,,,,,9/1/2017
+8,Business,Economy  ,,,,,,,9/1/2017
+8,Business,Business  ,,,,,,,9/1/2017
+9,Family Leisure,Business  ,,,,,,,8/1/2017
+8,Family Leisure,Economy  ,,,,,,,8/1/2017
+6,Business,Economy  ,,,,,,,8/1/2017
+1,Business,Business  ,,,,,,,8/1/2017
+1,Solo Leisure,Business  ,,,,,,,9/1/2017
+1,Solo Leisure,Economy  ,,,,,,,9/1/2017
+3,Couple Leisure,Business  ,,,,,,,8/1/2017
+4,Business,Economy  ,,,,,,,8/1/2017
+5,Business,Economy  ,,,,,,,8/1/2017
+7,Couple Leisure,Economy  ,,,,,,,8/1/2017
+8,Business,Business  ,,,,,,,8/1/2017
+2,Family Leisure,Economy  ,,,,,,,8/1/2017
+9,Solo Leisure,Economy  ,,,,,,,8/1/2017
+1,Couple Leisure,Economy  ,,,,,,,7/1/2017
+3,Couple Leisure,Economy  ,,,,,,,8/1/2017
+1,Couple Leisure,Economy  ,,,,,,,8/1/2017
+7,Family Leisure,Economy  ,,,,,,,8/1/2017
+3,Business,Economy  ,,,,,,,8/1/2017
+3,Business,First  ,,,,,,,8/1/2017
+2,Business,Business  ,,,,,,,8/1/2017
+10,Family Leisure,Economy  ,,,,,,,8/1/2017
+2,Solo Leisure,Economy  ,,,,,,,8/1/2017
+1,Couple Leisure,Economy  ,,,,,,,8/1/2017
+2,Couple Leisure,Business  ,,,,,,,8/1/2017
+5,Family Leisure,Business  ,,,,,,,8/1/2017
+2,Couple Leisure,Economy  ,,,,,,,8/1/2017
+2,Business,Business  ,,,,,,,8/1/2017
+1,Family Leisure,Business  ,,,,,,,7/1/2017
+9,Solo Leisure,Premium Economy,,,,,,,8/1/2017
+3,Solo Leisure,Business  ,,,,,,,8/1/2017
+3,Business,Economy  ,,,,,,,8/1/2017
+3,Family Leisure,Business  ,,,,,,,8/1/2017
+2,Solo Leisure,Economy  ,,,,,,,8/1/2017
+3,Family Leisure,Economy  ,,,,,,,8/1/2017
+1,Business,Economy  ,,,,,,,8/1/2017
+2,Business,Premium Economy,,,,,,,8/1/2017
+10,Business,Business  ,,,,,,,8/1/2017
+1,Solo Leisure,Economy  ,,,,,,,8/1/2017
+3,Solo Leisure,Economy  ,,,,,,,8/1/2017
+2,Solo Leisure,Premium Economy,,,,,,,7/1/2017
+1,Couple Leisure,Economy  ,,,,,,,6/1/2017
+2,Couple Leisure,Economy  ,,,,,,,6/1/2017
+5,Couple Leisure,Economy  ,,,,,,,7/1/2017
+3,Family Leisure,Economy  ,,,,,,,7/1/2017
+1,Business,Business  ,,,,,,,7/1/2017
+3,Family Leisure,Economy  ,,,,,,,7/1/2017
+2,Solo Leisure,Business  ,,,,,,,7/1/2017
+8,Couple Leisure,Business  ,,,,,,,7/1/2017
+1,Business,Economy  ,,,,,,,7/1/2017
+1,Solo Leisure,Economy  ,,,,,,,8/1/2016
+1,Solo Leisure,Economy  ,,,,,,,5/1/2017
+1,Business,Economy  ,,,,,,,7/1/2017
+10,Family Leisure,Economy  ,,,,,,,7/1/2017
+1,Family Leisure,Economy  ,,,,,,,7/1/2017
+2,Solo Leisure,Economy  ,,,,,,,8/1/2016
+7,Couple Leisure,Economy  ,,,,,,,7/1/2017
+1,Couple Leisure,Economy  ,,,,,,,7/1/2017
+1,Business,Economy  ,,,,,,,7/1/2017
+5,Couple Leisure,Business  ,,,,,,,7/1/2017
+5,Solo Leisure,Economy  ,,,,,,,7/1/2017
+3,Business,Economy  ,,,,,,,7/1/2017
+1,Business,Business  ,,,,,,,7/1/2017
+3,Business,Economy  ,,,,,,,5/1/2017
+7,Family Leisure,Economy  ,,,,,,,7/1/2017
+4,Business,Business  ,,,,,,,7/1/2017
+1,Couple Leisure,Economy  ,,,,,,,6/1/2017
+5,Family Leisure,Business  ,,,,,,,7/1/2017
+1,Business,Business  ,,,,,,,7/1/2017
+5,Business,Economy  ,,,,,,,7/1/2017
+1,Couple Leisure,Economy  ,,,,,,,7/1/2017
+3,Couple Leisure,Economy  ,,,,,,,2/1/2017
+9,Solo Leisure,Economy  ,,,,,,,4/1/2017
+2,Couple Leisure,Business  ,,,,,,,7/1/2017
+1,Business,Business  ,,,,,,,6/1/2017
+3,Solo Leisure,Economy  ,,,,,,,6/1/2017
+8,Couple Leisure,Business  ,,,,,,,7/1/2017
+8,Couple Leisure,Economy  ,,,,,,,6/1/2017
+8,Solo Leisure,Economy  ,,,,,,,7/1/2017
+4,Couple Leisure,Economy  ,,,,,,,6/1/2017
+5,Couple Leisure,Premium Economy,,,,,,,7/1/2017
+6,Family Leisure,Business  ,,,,,,,7/1/2017
+2,Family Leisure,Economy  ,,,,,,,6/1/2017
+2,Business,Premium Economy,,,,,,,6/1/2017
+1,Solo Leisure,Economy  ,,,,,,,7/1/2017
+7,Couple Leisure,Economy  ,,,,,,,7/1/2017
+1,Couple Leisure,Economy  ,,,,,,,7/1/2017
+2,Solo Leisure,Economy  ,,,,,,,6/1/2017
+5,Couple Leisure,Economy  ,,,,,,,7/1/2017
+2,Solo Leisure,Economy  ,,,,,,,6/1/2017
+2,Business,Business  ,,,,,,,7/1/2017
+5,Couple Leisure,Economy  ,,,,,,,6/1/2017
+6,Couple Leisure,Economy  ,,,,,,,5/1/2017
+1,Couple Leisure,Economy  ,,,,,,,6/1/2017
+1,Couple Leisure,Economy  ,,,,,,,6/1/2017
+10,Couple Leisure,First  ,,,,,,,6/1/2017
+2,Business,Economy  ,,,,,,,6/1/2017
+1,Business,Business  ,,,,,,,6/1/2017
+1,Couple Leisure,Business  ,,,,,,,6/1/2017
+1,Solo Leisure,Economy  ,,,,,,,6/1/2017
+2,Couple Leisure,Economy  ,,,,,,,6/1/2017
+1,Couple Leisure,Economy  ,,,,,,,6/1/2017
+3,Couple Leisure,Business  ,,,,,,,11/1/2016
+4,Couple Leisure,Business  ,,,,,,,6/1/2017
+2,Business,Business  ,,,,,,,6/1/2017
+5,Couple Leisure,Economy  ,,,,,,,6/1/2017
+1,Couple Leisure,Economy  ,,,,,,,5/1/2017
+8,Couple Leisure,Premium Economy,,,,,,,6/1/2017
+7,Solo Leisure,Economy  ,,,,,,,6/1/2017
+4,Business,Premium Economy,,,,,,,6/1/2017
+1,Business,Economy  ,,,,,,,6/1/2017
+1,Solo Leisure,Premium Economy,,,,,,,6/1/2017
+1,Business,Economy  ,,,,,,,5/1/2017
+3,Solo Leisure,Premium Economy,,,,,,,6/1/2017
+2,Business,Business  ,,,,,,,6/1/2017
+7,Solo Leisure,Premium Economy,,,,,,,5/1/2017
+1,Business,Economy  ,,,,,,,6/1/2017
+2,Business,Premium Economy,,,,,,,6/1/2017
+5,Couple Leisure,Business  ,,,,,,,6/1/2017
+2,Business,Business  ,,,,,,,6/1/2017
+8,Couple Leisure,Business  ,,,,,,,6/1/2017
+6,Solo Leisure,Economy  ,,,,,,,6/1/2017
+1,Couple Leisure,Premium Economy,,,,,,,6/1/2017
+3,Solo Leisure,Business  ,,,,,,,6/1/2017
+8,Family Leisure,Business  ,,,,,,,6/1/2017
+1,Couple Leisure,Economy  ,,,,,,,6/1/2017
+1,Business,Business  ,,,,,,,6/1/2017
+1,Couple Leisure,Premium Economy,,,,,,,6/1/2017
+1,Couple Leisure,Economy  ,,,,,,,1/1/2017
+1,Business,Premium Economy,,,,,,,6/1/2017
+3,Family Leisure,Economy  ,,,,,,,5/1/2017
+1,Business,Business  ,,,,,,,6/1/2017
+1,Business,Business  ,,,,,,,6/1/2017
+3,Couple Leisure,Premium Economy,,,,,,,4/1/2017
+6,Solo Leisure,Premium Economy,,,,,,,6/1/2017
+1,Family Leisure,First  ,,,,,,,5/1/2017
+3,Business,Business  ,,,,,,,6/1/2017
+3,Couple Leisure,Premium Economy,,,,,,,6/1/2017
+1,Family Leisure,Economy  ,,,,,,,6/1/2017
+9,Couple Leisure,Economy  ,,,,,,,6/1/2017
+1,Business,Economy  ,,,,,,,6/1/2017
+3,Couple Leisure,Business  ,,,,,,,5/1/2017
+1,Couple Leisure,Economy  ,,,,,,,6/1/2017
+10,Solo Leisure,Premium Economy,,,,,,,5/1/2017
+2,Couple Leisure,Economy  ,,,,,,,6/1/2017
+1,Couple Leisure,Business  ,,,,,,,5/1/2017
+2,Business,Economy  ,,,,,,,4/1/2017
+1,Business,Business  ,,,,,,,5/1/2017
+1,Couple Leisure,Economy  ,,,,,,,5/1/2017
+1,Couple Leisure,First  ,,,,,,,5/1/2017
+2,Couple Leisure,Business  ,,,,,,,5/1/2017
+1,Business,Premium Economy,,,,,,,5/1/2017
+3,Family Leisure,Economy  ,,,,,,,5/1/2017
+3,Business,Business  ,,,,,,,5/1/2017
+4,Business,Business  ,,,,,,,5/1/2017
+2,Solo Leisure,Economy  ,,,,,,,5/1/2017
+6,Couple Leisure,Business  ,,,,,,,4/1/2017
+5,Business,Business  ,,,,,,,5/1/2017
+2,Solo Leisure,Economy  ,,,,,,,4/1/2017
+4,Couple Leisure,Economy  ,,,,,,,5/1/2017
+6,Business,Economy  ,,,,,,,4/1/2017
+1,Family Leisure,Economy  ,,,,,,,5/1/2017
+8,Solo Leisure,Economy  ,,,,,,,5/1/2017
+9,Solo Leisure,Economy  ,,,,,,,5/1/2017
+1,Business,Business  ,,,,,,,5/1/2017
+6,Solo Leisure,Economy  ,,,,,,,5/1/2017
+4,Business,Economy  ,,,,,,,4/1/2017
+1,Solo Leisure,Economy  ,,,,,,,4/1/2017
+8,Couple Leisure,Economy  ,,,,,,,5/1/2017
+1,Family Leisure,Economy  ,,,,,,,12/1/2016
+9,Couple Leisure,Economy  ,,,,,,,4/1/2017
+3,Couple Leisure,Business  ,,,,,,,5/1/2017
+2,Business,Economy  ,,,,,,,5/1/2017
+10,Family Leisure,Economy  ,,,,,,,5/1/2017
+1,Business,Economy  ,,,,,,,4/1/2017
+8,Solo Leisure,Premium Economy,,,,,,,5/1/2017
+6,Business,Business  ,,,,,,,5/1/2017
+6,Business,Business  ,,,,,,,5/1/2017
+3,Business,Economy  ,,,,,,,2/1/2017
+3,Couple Leisure,Economy  ,,,,,,,4/1/2017
+3,Solo Leisure,Economy  ,,,,,,,5/1/2017
+1,Couple Leisure,Economy  ,,,,,,,4/1/2017
+9,Couple Leisure,Business  ,,,,,,,5/1/2017
+1,Couple Leisure,Premium Economy,,,,,,,5/1/2017
+1,Business,Economy  ,,,,,,,5/1/2017
+1,Couple Leisure,Economy  ,,,,,,,5/1/2017
+7,Couple Leisure,Business  ,,,,,,,4/1/2017
+7,Business,Business  ,,,,,,,5/1/2017
+7,Solo Leisure,Economy  ,,,,,,,5/1/2017
+10,Business,Economy  ,,,,,,,5/1/2017
+1,Business,Premium Economy,,,,,,,4/1/2017
+2,Business,Business  ,,,,,,,4/1/2017
+8,Couple Leisure,First  ,,,,,,,4/1/2017
+7,Business,Economy  ,,,,,,,5/1/2017
+2,Solo Leisure,Economy  ,,,,,,,3/1/2017
+1,Family Leisure,Economy  ,,,,,,,3/1/2017
+2,Solo Leisure,Economy  ,,,,,,,5/1/2017
+1,Family Leisure,Economy  ,,,,,,,4/1/2017
+2,Couple Leisure,Premium Economy,,,,,,,4/1/2017
+1,Business,Business  ,,,,,,,5/1/2017
+3,Solo Leisure,Economy  ,,,,,,,5/1/2017
+1,Solo Leisure,Economy  ,,,,,,,4/1/2017
+7,Couple Leisure,Economy  ,,,,,,,5/1/2017
+1,Couple Leisure,Economy  ,,,,,,,4/1/2017
+8,Solo Leisure,Economy  ,,,,,,,4/1/2017
+1,Solo Leisure,Business  ,,,,,,,8/1/2016
+8,Family Leisure,Economy  ,,,,,,,4/1/2017
+1,Couple Leisure,Economy  ,,,,,,,4/1/2017
+2,Business,Premium Economy,,,,,,,4/1/2017
+9,Family Leisure,Economy  ,,,,,,,4/1/2017
+6,Couple Leisure,First  ,,,,,,,4/1/2017
+6,Couple Leisure,First  ,,,,,,,4/1/2017
+7,Couple Leisure,Business  ,,,,,,,4/1/2017
+10,Couple Leisure,Economy  ,,,,,,,2/1/2017
+2,Couple Leisure,Economy  ,,,,,,,4/1/2017
+3,Couple Leisure,Business  ,,,,,,,4/1/2017
+2,Family Leisure,Economy  ,,,,,,,4/1/2017
+9,Couple Leisure,Business  ,,,,,,,4/1/2017
+7,Couple Leisure,Business  ,,,,,,,4/1/2017
+5,Couple Leisure,Economy  ,,,,,,,4/1/2017
+2,Business,Economy  ,,,,,,,4/1/2017
+3,Solo Leisure,Economy  ,,,,,,,3/1/2017
+1,Solo Leisure,Economy  ,,,,,,,4/1/2017
+3,Business,Economy  ,,,,,,,3/1/2017
+1,Business,Economy  ,,,,,,,4/1/2017
+9,Couple Leisure,Premium Economy,,,,,,,4/1/2017
+5,Business,Business  ,,,,,,,4/1/2017
+5,Couple Leisure,Business  ,,,,,,,4/1/2017
+4,Solo Leisure,Economy  ,,,,,,,4/1/2017
+1,Business,Economy  ,,,,,,,4/1/2017
+1,Family Leisure,Business  ,,,,,,,3/1/2017
+9,Solo Leisure,Business  ,,,,,,,4/1/2017
+2,Solo Leisure,Business  ,,,,,,,4/1/2017
+5,Family Leisure,Economy  ,,,,,,,4/1/2017
+7,Family Leisure,Economy  ,,,,,,,4/1/2017
+5,Solo Leisure,Economy  ,,,,,,,4/1/2017
+10,Couple Leisure,Economy  ,,,,,,,4/1/2017
+1,Solo Leisure,Economy  ,,,,,,,4/1/2017
+8,Business,Business  ,,,,,,,3/1/2017
+4,Business,Economy  ,,,,,,,4/1/2017
+1,Solo Leisure,Economy  ,,,,,,,4/1/2017
+1,Business,Business  ,,,,,,,4/1/2017
+2,Solo Leisure,Economy  ,,,,,,,4/1/2017
+1,Solo Leisure,Economy  ,,,,,,,2/1/2017
+2,Business,Economy  ,,,,,,,4/1/2017
+1,Family Leisure,Economy  ,,,,,,,4/1/2017
+1,Solo Leisure,Economy  ,,,,,,,4/1/2017
+9,Family Leisure,Business  ,,,,,,,4/1/2017
+10,Couple Leisure,Business  ,,,,,,,3/1/2017
+2,Solo Leisure,Economy  ,,,,,,,4/1/2017
+1,Couple Leisure,Business  ,,,,,,,4/1/2017
+1,Family Leisure,Economy  ,,,,,,,4/1/2017
+1,Couple Leisure,Economy  ,,,,,,,11/1/2016
+2,Business,Premium Economy,,,,,,,3/1/2017
+4,Solo Leisure,Economy  ,,,,,,,1/1/2017
+1,Business,Business  ,,,,,,,3/1/2017
+1,Couple Leisure,Business  ,,,,,,,11/1/2016
+4,Couple Leisure,Business  ,,,,,,,4/1/2017
+1,Business,Economy  ,,,,,,,4/1/2017
+8,Couple Leisure,Business  ,,,,,,,3/1/2017
+3,Business,Business  ,,,,,,,3/1/2017
+1,Business,Premium Economy,,,,,,,1/1/2017
+1,Couple Leisure,Economy  ,,,,,,,4/1/2017
+1,Solo Leisure,Economy  ,,,,,,,4/1/2017
+5,Business,Economy  ,,,,,,,3/1/2017
+2,Couple Leisure,Economy  ,,,,,,,4/1/2017
+3,Couple Leisure,Business  ,,,,,,,2/1/2017
+1,Couple Leisure,Economy  ,,,,,,,3/1/2017
+6,Business,Economy  ,,,,,,,3/1/2017
+7,Family Leisure,Business  ,,,,,,,3/1/2017
+4,Business,Economy  ,,,,,,,3/1/2017
+4,Family Leisure,Economy  ,,,,,,,3/1/2017
+2,Business,Economy  ,,,,,,,1/1/2017
+3,Business,Economy  ,,,,,,,3/1/2017
+3,Couple Leisure,Business  ,,,,,,,3/1/2017
+4,Couple Leisure,Premium Economy,,,,,,,3/1/2017
+2,Business,Business  ,,,,,,,3/1/2017
+10,Couple Leisure,Premium Economy,,,,,,,2/1/2017
+3,Business,Economy  ,,,,,,,3/1/2017
+4,Couple Leisure,Business  ,,,,,,,3/1/2017
+1,Solo Leisure,Economy  ,,,,,,,3/1/2017
+3,Couple Leisure,Economy  ,,,,,,,3/1/2017
+5,Solo Leisure,Economy  ,,,,,,,3/1/2017
+1,Solo Leisure,Economy  ,,,,,,,1/1/2017
+6,Solo Leisure,Business  ,,,,,,,3/1/2017
+1,Business,Business  ,,,,,,,3/1/2017
+3,Business,Economy  ,,,,,,,3/1/2017
+3,Couple Leisure,Economy  ,,,,,,,3/1/2017
+5,Solo Leisure,Economy  ,,,,,,,2/1/2017
+4,Solo Leisure,Economy  ,,,,,,,2/1/2017
+2,Couple Leisure,Business  ,,,,,,,3/1/2017
+1,Couple Leisure,Economy  ,,,,,,,3/1/2017
+4,Family Leisure,Economy  ,,,,,,,3/1/2017
+3,Couple Leisure,Business  ,,,,,,,3/1/2017
+9,Couple Leisure,Business  ,,,,,,,3/1/2017
+3,Couple Leisure,Economy  ,,,,,,,2/1/2017
+4,Business,Business  ,,,,,,,2/1/2017
+2,Solo Leisure,Economy  ,,,,,,,3/1/2017
+1,Business,Economy  ,,,,,,,3/1/2017
+2,Solo Leisure,Economy  ,,,,,,,3/1/2017
+3,Couple Leisure,Economy  ,,,,,,,2/1/2017
+5,Couple Leisure,Economy  ,,,,,,,2/1/2017
+1,Business,Business  ,,,,,,,3/1/2017
+2,Business,Business  ,,,,,,,3/1/2017
+3,Business,Premium Economy,,,,,,,3/1/2017
+1,Couple Leisure,Economy  ,,,,,,,2/1/2017
+5,Solo Leisure,Premium Economy,,,,,,,3/1/2017
+5,Couple Leisure,Economy  ,,,,,,,2/1/2017
+5,Solo Leisure,Economy  ,,,,,,,2/1/2017
+4,Family Leisure,Economy  ,,,,,,,3/1/2017
+3,Couple Leisure,Economy  ,,,,,,,3/1/2017
+7,Solo Leisure,Premium Economy,,,,,,,2/1/2017
+3,Couple Leisure,Business  ,,,,,,,3/1/2017
+7,Couple Leisure,Business  ,,,,,,,3/1/2017
+10,Couple Leisure,Business  ,,,,,,,3/1/2017
+1,Business,Economy  ,,,,,,,3/1/2017
+4,Solo Leisure,Economy  ,,,,,,,2/1/2017
+2,Business,Economy  ,,,,,,,2/1/2017
+4,Business,Business  ,,,,,,,2/1/2017
+9,Business,Premium Economy,,,,,,,2/1/2017
+1,Couple Leisure,Economy  ,,,,,,,2/1/2017
+10,Business,Business  ,,,,,,,2/1/2017
+2,Business,Premium Economy,,,,,,,2/1/2017
+2,Couple Leisure,Business  ,,,,,,,2/1/2017
+4,Business,Economy  ,,,,,,,2/1/2017
+6,Solo Leisure,Economy  ,,,,,,,12/1/2016
+2,Business,Economy  ,,,,,,,2/1/2017
+7,Solo Leisure,Economy  ,,,,,,,1/1/2017
+3,Solo Leisure,Economy  ,,,,,,,2/1/2017
+1,Business,First  ,,,,,,,2/1/2017
+1,Solo Leisure,Economy  ,,,,,,,2/1/2017
+8,Couple Leisure,Economy  ,,,,,,,2/1/2017
+7,Solo Leisure,Premium Economy,,,,,,,2/1/2017
+1,Business,Economy  ,,,,,,,2/1/2017
+8,Couple Leisure,Economy  ,,,,,,,2/1/2017
+5,Business,Economy  ,,,,,,,2/1/2017
+2,Solo Leisure,Economy  ,,,,,,,2/1/2017
+4,Couple Leisure,Economy  ,,,,,,,2/1/2017
+4,Couple Leisure,Business  ,,,,,,,2/1/2017
+7,Solo Leisure,Economy  ,,,,,,,2/1/2017
+10,Solo Leisure,Economy  ,,,,,,,2/1/2017
+1,Business,Economy  ,,,,,,,1/1/2017
+7,Business,Business  ,,,,,,,2/1/2017
+8,Business,Business  ,,,,,,,2/1/2017
+1,Business,Premium Economy,,,,,,,2/1/2017
+3,Family Leisure,Economy  ,,,,,,,2/1/2017
+9,Solo Leisure,Economy  ,,,,,,,2/1/2017
+3,Couple Leisure,Economy  ,,,,,,,2/1/2017
+2,Business,Economy  ,,,,,,,2/1/2017
+3,Business,Business  ,,,,,,,2/1/2017
+1,Solo Leisure,Economy  ,,,,,,,1/1/2017
+3,Solo Leisure,Economy  ,,,,,,,2/1/2017
+1,Solo Leisure,Economy  ,,,,,,,12/1/2016
+2,Family Leisure,Economy  ,,,,,,,2/1/2017
+1,Business,Economy  ,,,,,,,2/1/2017
+1,Couple Leisure,Economy  ,,,,,,,1/1/2017
+3,Solo Leisure,Economy  ,,,,,,,10/1/2016
+2,Family Leisure,Economy  ,,,,,,,12/1/2016
+9,Couple Leisure,Economy  ,,,,,,,2/1/2017
+8,Solo Leisure,Business  ,,,,,,,1/1/2017
+1,Business,Business  ,,,,,,,1/1/2017
+8,Solo Leisure,Business  ,,,,,,,1/1/2017
+8,Solo Leisure,Business  ,,,,,,,1/1/2017
+4,Couple Leisure,Economy  ,,,,,,,1/1/2017
+8,Business,Economy  ,,,,,,,1/1/2017
+9,Couple Leisure,Business  ,,,,,,,1/1/2017
+5,Business,Economy  ,,,,,,,1/1/2017
+3,Solo Leisure,Economy  ,,,,,,,2/1/2017
+8,Solo Leisure,Economy  ,,,,,,,1/1/2017
+2,Solo Leisure,Business  ,,,,,,,1/1/2017
+8,Couple Leisure,Economy  ,,,,,,,1/1/2017
+1,Couple Leisure,Economy  ,,,,,,,1/1/2017
+2,Business,Economy  ,,,,,,,1/1/2017
+1,Solo Leisure,Business  ,,,,,,,1/1/2017
+1,Solo Leisure,Economy  ,,,,,,,1/1/2017
+10,Solo Leisure,Premium Economy,,,,,,,1/1/2017
+7,Solo Leisure,Economy  ,,,,,,,1/1/2017
+3,Business,Economy  ,,,,,,,1/1/2017
+2,Couple Leisure,Economy  ,,,,,,,1/1/2017
+4,Couple Leisure,Economy  ,,,,,,,9/1/2016
+2,Business,Economy  ,,,,,,,1/1/2017
+2,Business,Economy  ,,,,,,,1/1/2017
+9,Solo Leisure,First  ,,,,,,,1/1/2017
+2,Business,Business  ,,,,,,,1/1/2017
+1,Solo Leisure,Economy  ,,,,,,,12/1/2016
+6,Couple Leisure,First  ,,,,,,,1/1/2017
+5,,First  ,,,,,,,1/1/2017
+6,Solo Leisure,Business  ,,,,,,,1/1/2017
+4,Couple Leisure,Economy  ,,,,,,,1/1/2017
+8,Couple Leisure,Economy  ,,,,,,,8/1/2016
+7,Couple Leisure,Business  ,,,,,,,10/1/2016
+1,Business,Premium Economy,,,,,,,8/1/2016
+2,Couple Leisure,Business  ,,,,,,,1/1/2017
+1,Solo Leisure,Economy  ,,,,,,,1/1/2017
+5,Business,Economy  ,,,,,,,1/1/2017
+3,Couple Leisure,Business  ,,,,,,,12/1/2016
+1,Couple Leisure,Business  ,,,,,,,1/1/2017
+3,Solo Leisure,Economy  ,,,,,,,12/1/2016
+10,Solo Leisure,Economy  ,,,,,,,1/1/2017
+6,Couple Leisure,Business  ,,,,,,,1/1/2017
+2,Solo Leisure,First  ,,,,,,,11/1/2016
+2,Solo Leisure,Economy  ,,,,,,,1/1/2017
+2,Business,Economy  ,,,,,,,11/1/2016
+1,Family Leisure,Premium Economy,,,,,,,10/1/2016
+1,Couple Leisure,Business  ,,,,,,,12/1/2016
+6,Solo Leisure,Economy  ,,,,,,,1/1/2017
+2,Solo Leisure,Economy  ,,,,,,,7/1/2016
+1,Business,Economy  ,,,,,,,1/1/2017
+1,Couple Leisure,Economy  ,,,,,,,1/1/2017
+7,Solo Leisure,Business  ,,,,,,,1/1/2017
+4,Couple Leisure,Business  ,,,,,,,12/1/2016
+3,Family Leisure,Economy  ,,,,,,,12/1/2016
+2,Solo Leisure,Business  ,,,,,,,1/1/2017
+1,Business,Economy  ,,,,,,,1/1/2017
+8,Solo Leisure,Business  ,,,,,,,1/1/2017
+8,Family Leisure,Economy  ,,,,,,,1/1/2017
+2,Couple Leisure,Economy  ,,,,,,,1/1/2017
+2,Couple Leisure,Economy  ,,,,,,,1/1/2017
+3,Couple Leisure,Economy  ,,,,,,,12/1/2016
+10,Couple Leisure,Economy  ,,,,,,,1/1/2017
+2,Solo Leisure,Economy  ,,,,,,,1/1/2017
+1,Solo Leisure,Economy  ,,,,,,,12/1/2016
+2,Family Leisure,Business  ,,,,,,,1/1/2017
+1,Couple Leisure,Economy  ,,,,,,,12/1/2016
+1,Couple Leisure,Business  ,,,,,,,12/1/2016
+2,Couple Leisure,Business  ,,,,,,,1/1/2017
+9,Solo Leisure,Business  ,,,,,,,12/1/2016
+6,Couple Leisure,Economy  ,,,,,,,12/1/2016
+1,Solo Leisure,Economy  ,,,,,,,1/1/2017
+4,Solo Leisure,Economy  ,,,,,,,12/1/2016
+5,Solo Leisure,Economy  ,,,,,,,1/1/2017
+5,Solo Leisure,Economy  ,,,,,,,12/1/2016
+1,Couple Leisure,Economy  ,,,,,,,12/1/2016
+10,Couple Leisure,First  ,,,,,,,12/1/2016
+7,Family Leisure,Economy  ,,,,,,,11/1/2016
+1,Family Leisure,Economy  ,,,,,,,12/1/2016
+9,Solo Leisure,Premium Economy,,,,,,,9/1/2016
+10,Couple Leisure,Economy  ,,,,,,,12/1/2016
+7,Couple Leisure,Business  ,,,,,,,12/1/2016
+1,Couple Leisure,Economy  ,,,,,,,12/1/2016
+5,Business,Economy  ,,,,,,,12/1/2016
+7,Couple Leisure,Premium Economy,,,,,,,12/1/2016
+1,Solo Leisure,Premium Economy,,,,,,,12/1/2016
+1,Business,Economy  ,,,,,,,12/1/2016
+2,Couple Leisure,Economy  ,,,,,,,12/1/2016
+2,Business,Economy  ,,,,,,,12/1/2016
+9,Solo Leisure,Economy  ,,,,,,,12/1/2016
+1,Couple Leisure,Premium Economy,,,,,,,12/1/2016
+3,Couple Leisure,First  ,,,,,,,12/1/2016
+6,Business,Economy  ,,,,,,,12/1/2016
+9,Couple Leisure,Business  ,,,,,,,12/1/2016
+2,Solo Leisure,Economy  ,,,,,,,12/1/2016
+7,Solo Leisure,Economy  ,,,,,,,12/1/2016
+3,Couple Leisure,Premium Economy,,,,,,,11/1/2016
+4,Couple Leisure,Economy  ,,,,,,,12/1/2016
+1,Business,Premium Economy,,,,,,,12/1/2016
+1,Family Leisure,Premium Economy,,,,,,,10/1/2016
+5,Business,Business  ,,,,,,,11/1/2016
+4,Solo Leisure,Business  ,,,,,,,12/1/2016
+8,Business,Business  ,,,,,,,12/1/2016
+1,Business,Premium Economy,,,,,,,12/1/2016
+10,Solo Leisure,Premium Economy,,,,,,,12/1/2016
+3,Business,Business  ,,,,,,,12/1/2016
+2,Couple Leisure,Economy  ,,,,,,,12/1/2016
+6,Solo Leisure,Premium Economy,,,,,,,12/1/2016
+9,Solo Leisure,Economy  ,,,,,,,11/1/2016
+9,Solo Leisure,Economy  ,,,,,,,11/1/2016
+2,Business,Premium Economy,,,,,,,12/1/2016
+7,Solo Leisure,Business  ,,,,,,,11/1/2016
+2,Couple Leisure,First  ,,,,,,,12/1/2016
+6,Business,Economy  ,,,,,,,12/1/2016
+1,Couple Leisure,Economy  ,,,,,,,11/1/2016
+7,Couple Leisure,Premium Economy,,,,,,,10/1/2016
+1,Business,Business  ,,,,,,,12/1/2016
+4,Couple Leisure,Economy  ,,,,,,,11/1/2016
+1,Family Leisure,Economy  ,,,,,,,12/1/2016
+8,Couple Leisure,Business  ,,,,,,,12/1/2016
+1,Couple Leisure,Business  ,,,,,,,12/1/2016
+1,Couple Leisure,Economy  ,,,,,,,11/1/2016
+6,Couple Leisure,Economy  ,,,,,,,12/1/2016
+3,Business,Business  ,,,,,,,11/1/2016
+3,Couple Leisure,Business  ,,,,,,,11/1/2016
+1,Solo Leisure,Economy  ,,,,,,,1/1/2016
+1,Family Leisure,Economy  ,,,,,,,11/1/2016
+9,Business,First  ,,,,,,,11/1/2016
+8,Solo Leisure,Economy  ,,,,,,,11/1/2016
+7,Couple Leisure,Economy  ,,,,,,,10/1/2016
+10,Business,First  ,,,,,,,11/1/2016
+6,Couple Leisure,Business  ,,,,,,,11/1/2016
+9,Business,Premium Economy,,,,,,,11/1/2016
+9,Couple Leisure,Economy  ,,,,,,,11/1/2016
+7,Solo Leisure,Business  ,,,,,,,11/1/2016
+3,Family Leisure,Economy  ,,,,,,,11/1/2016
+1,Business,Economy  ,,,,,,,11/1/2016
+7,Solo Leisure,First  ,,,,,,,4/1/2016
+6,Family Leisure,Economy  ,,,,,,,10/1/2016
+5,Business,Business  ,,,,,,,11/1/2016
+10,Business,First  ,,,,,,,11/1/2016
+1,Business,Premium Economy,,,,,,,8/1/2016
+2,Couple Leisure,Economy  ,,,,,,,11/1/2016
+8,Business,Economy  ,,,,,,,11/1/2016
+8,Solo Leisure,Economy  ,,,,,,,11/1/2016
+9,Solo Leisure,First  ,,,,,,,11/1/2016
+1,Business,Economy  ,,,,,,,8/1/2016
+2,Family Leisure,Economy  ,,,,,,,8/1/2016
+1,Couple Leisure,Premium Economy,,,,,,,9/1/2016
+5,Business,Economy  ,,,,,,,11/1/2016
+1,Business,Economy  ,,,,,,,10/1/2016
+3,Couple Leisure,First  ,,,,,,,11/1/2016
+9,Couple Leisure,Premium Economy,,,,,,,11/1/2016
+9,Couple Leisure,Premium Economy,,,,,,,11/1/2016
+1,Solo Leisure,Economy  ,,,,,,,11/1/2016
+7,Couple Leisure,First  ,,,,,,,11/1/2016
+2,Business,Economy  ,,,,,,,10/1/2016
+3,Business,Business  ,,,,,,,11/1/2016
+10,Couple Leisure,First  ,,,,,,,11/1/2016
+3,Family Leisure,Economy  ,,,,,,,11/1/2016
+9,Couple Leisure,First  ,,,,,,,11/1/2016
+8,Solo Leisure,Economy  ,,,,,,,9/1/2016
+4,Business,Economy  ,,,,,,,11/1/2016
+1,Family Leisure,Economy  ,,,,,,,10/1/2016
+9,Business,Economy  ,,,,,,,11/1/2016
+3,Family Leisure,First  ,,,,,,,11/1/2016
+3,Couple Leisure,First  ,,,,,,,11/1/2016
+4,Solo Leisure,Business  ,,,,,,,11/1/2016
+3,Solo Leisure,Premium Economy,,,,,,,11/1/2016
+1,Couple Leisure,Premium Economy,,,,,,,11/1/2016
+10,Solo Leisure,Economy  ,,,,,,,10/1/2016
+2,Solo Leisure,Economy  ,,,,,,,11/1/2016
+9,Couple Leisure,First  ,,,,,,,10/1/2016
+2,Couple Leisure,Premium Economy,,,,,,,11/1/2016
+4,Solo Leisure,Economy  ,,,,,,,11/1/2016
+7,Couple Leisure,First  ,,,,,,,10/1/2016
+2,Solo Leisure,Economy  ,,,,,,,8/1/2016
+3,Business,Economy  ,,,,,,,11/1/2016
+2,Family Leisure,Business  ,,,,,,,11/1/2016
+6,Solo Leisure,Economy  ,,,,,,,11/1/2016
+4,Business,Business  ,,,,,,,11/1/2016
+9,Couple Leisure,Economy  ,,,,,,,10/1/2016
+8,Couple Leisure,Premium Economy,,,,,,,11/1/2016
+2,Couple Leisure,Economy  ,,,,,,,10/1/2016
+9,Family Leisure,Economy  ,,,,,,,10/1/2016
+2,Solo Leisure,Economy  ,,,,,,,11/1/2016
+3,Couple Leisure,Economy  ,,,,,,,10/1/2016
+2,Business,Business  ,,,,,,,10/1/2016
+10,Solo Leisure,Economy  ,,,,,,,10/1/2016
+9,Solo Leisure,Economy  ,,,,,,,10/1/2016
+4,Couple Leisure,Business  ,,,,,,,10/1/2016
+9,Solo Leisure,Business  ,,,,,,,10/1/2016
+4,Solo Leisure,Economy  ,,,,,,,10/1/2016
+7,Couple Leisure,Economy  ,,,,,,,10/1/2016
+9,Couple Leisure,Premium Economy,,,,,,,10/1/2016
+10,Solo Leisure,Economy  ,,,,,,,10/1/2016
+10,Business,Economy  ,,,,,,,10/1/2016
+4,Business,Premium Economy,,,,,,,10/1/2016
+1,Business,Business  ,,,,,,,10/1/2016
+3,Couple Leisure,Economy  ,,,,,,,10/1/2016
+6,Business,Business  ,,,,,,,10/1/2016
+3,Couple Leisure,Business  ,,,,,,,10/1/2016
+4,Family Leisure,Business  ,,,,,,,10/1/2016
+1,Solo Leisure,Premium Economy,,,,,,,9/1/2016
+8,Couple Leisure,Business  ,,,,,,,9/1/2016
+1,Business,Premium Economy,,,,,,,10/1/2016
+8,Solo Leisure,First  ,,,,,,,10/1/2016
+1,Couple Leisure,Economy  ,,,,,,,10/1/2016
+2,Couple Leisure,Economy  ,,,,,,,10/1/2016
+3,Business,First  ,,,,,,,10/1/2016
+1,Solo Leisure,Economy  ,,,,,,,10/1/2016
+4,Business,First  ,,,,,,,6/1/2016
+3,Solo Leisure,Economy  ,,,,,,,9/1/2016
+3,Couple Leisure,Business  ,,,,,,,10/1/2016
+2,Solo Leisure,Premium Economy,,,,,,,10/1/2016
+1,Solo Leisure,Business  ,,,,,,,10/1/2016
+5,Family Leisure,Economy  ,,,,,,,10/1/2016
+3,Solo Leisure,First  ,,,,,,,8/1/2016
+10,Solo Leisure,Economy  ,,,,,,,10/1/2016
+7,Couple Leisure,Economy  ,,,,,,,10/1/2016
+1,Couple Leisure,Economy  ,,,,,,,9/1/2016
+2,Family Leisure,Economy  ,,,,,,,8/1/2016
+1,Solo Leisure,Economy  ,,,,,,,10/1/2016
+4,Couple Leisure,First  ,,,,,,,9/1/2016
+1,Family Leisure,Economy  ,,,,,,,10/1/2016
+3,Couple Leisure,Business  ,,,,,,,10/1/2016
+5,Solo Leisure,Economy  ,,,,,,,10/1/2016
+3,Couple Leisure,Business  ,,,,,,,10/1/2016
+1,Couple Leisure,Economy  ,,,,,,,10/1/2016
+2,Family Leisure,Economy  ,,,,,,,9/1/2016
+4,Solo Leisure,Economy  ,,,,,,,10/1/2016
+2,Business,First  ,,,,,,,7/1/2016
+5,Couple Leisure,Economy  ,,,,,,,10/1/2016
+8,Solo Leisure,Economy  ,,,,,,,10/1/2016
+9,Solo Leisure,Economy  ,,,,,,,10/1/2016
+4,Business,Premium Economy,,,,,,,5/1/2016
+4,Couple Leisure,Premium Economy,,,,,,,10/1/2016
+7,Couple Leisure,Economy  ,,,,,,,9/1/2016
+5,Business,Economy  ,,,,,,,10/1/2016
+4,Couple Leisure,Business  ,,,,,,,9/1/2016
+7,Couple Leisure,Economy  ,,,,,,,9/1/2016
+2,Couple Leisure,Economy  ,,,,,,,9/1/2016
+3,Couple Leisure,Business  ,,,,,,,9/1/2016
+1,Couple Leisure,Economy  ,,,,,,,7/1/2016
+2,Family Leisure,Economy  ,,,,,,,9/1/2016
+9,Couple Leisure,First  ,,,,,,,9/1/2016
+5,Family Leisure,Economy  ,,,,,,,9/1/2016
+5,Couple Leisure,Business  ,,,,,,,9/1/2016
+8,Couple Leisure,First  ,,,,,,,9/1/2016
+8,Couple Leisure,Business  ,,,,,,,9/1/2016
+8,Solo Leisure,Premium Economy,,,,,,,9/1/2016
+7,Solo Leisure,Economy  ,,,,,,,9/1/2016
+5,Solo Leisure,Business  ,,,,,,,9/1/2016
+8,Solo Leisure,Business  ,,,,,,,9/1/2016
+9,Couple Leisure,Economy  ,,,,,,,9/1/2016
+8,Couple Leisure,Economy  ,,,,,,,9/1/2016
+1,Business,Premium Economy,,,,,,,9/1/2016
+1,Couple Leisure,Economy  ,,,,,,,9/1/2016
+8,Business,Premium Economy,,,,,,,9/1/2016
+3,Family Leisure,Premium Economy,,,,,,,9/1/2016
+5,Business,Economy  ,,,,,,,9/1/2016
+3,Family Leisure,Economy  ,,,,,,,9/1/2016
+2,Family Leisure,Economy  ,,,,,,,9/1/2016
+1,Solo Leisure,Economy  ,,,,,,,9/1/2016
+8,Solo Leisure,Business  ,,,,,,,9/1/2016
+4,Family Leisure,Economy  ,,,,,,,8/1/2016
+1,Solo Leisure,Economy  ,,,,,,,9/1/2016
+1,Solo Leisure,Business  ,,,,,,,9/1/2016
+3,Couple Leisure,Economy  ,,,,,,,8/1/2016
+6,Business,Business  ,,,,,,,9/1/2016
+4,Solo Leisure,Economy  ,,,,,,,8/1/2016
+1,Couple Leisure,First  ,,,,,,,9/1/2016
+2,Couple Leisure,Business  ,,,,,,,9/1/2016
+3,Business,Economy  ,,,,,,,9/1/2016
+8,Solo Leisure,Economy  ,,,,,,,9/1/2016
+5,Solo Leisure,Economy  ,,,,,,,9/1/2016
+2,Couple Leisure,Economy  ,,,,,,,8/1/2016
+3,Solo Leisure,Economy  ,,,,,,,9/1/2016
+4,Family Leisure,Economy  ,,,,,,,9/1/2016
+4,Couple Leisure,Business  ,,,,,,,9/1/2016
+1,Business,First  ,,,,,,,8/1/2016
+8,Couple Leisure,Economy  ,,,,,,,9/1/2016
+6,Couple Leisure,Business  ,,,,,,,9/1/2016
+4,Solo Leisure,Business  ,,,,,,,9/1/2016
+8,Solo Leisure,Business  ,,,,,,,9/1/2016
+4,Couple Leisure,Economy  ,,,,,,,9/1/2016
+2,Couple Leisure,Economy  ,,,,,,,9/1/2016
+9,Family Leisure,Economy  ,,,,,,,9/1/2016
+1,Business,Business  ,,,,,,,8/1/2016
+2,Business,Business  ,,,,,,,9/1/2016
+2,Couple Leisure,Economy  ,,,,,,,9/1/2016
+6,Solo Leisure,Economy  ,,,,,,,3/1/2016
+4,Family Leisure,Economy  ,,,,,,,8/1/2016
+7,Family Leisure,Economy  ,,,,,,,7/1/2016
+3,Family Leisure,Business  ,,,,,,,8/1/2016
+5,Family Leisure,Business  ,,,,,,,8/1/2016
+8,Business,Economy  ,,,,,,,8/1/2016
+1,Family Leisure,Economy  ,,,,,,,8/1/2016
+10,Business,Economy  ,,,,,,,8/1/2016
+3,Family Leisure,Business  ,,,,,,,8/1/2016
+6,Solo Leisure,Economy  ,,,,,,,8/1/2016
+4,Family Leisure,Economy  ,,,,,,,8/1/2016
+7,Solo Leisure,Economy  ,,,,,,,8/1/2016
+2,Business,Economy  ,,,,,,,8/1/2016
+5,Family Leisure,First  ,,,,,,,7/1/2016
+1,Business,Economy  ,,,,,,,8/1/2016
+4,Solo Leisure,Economy  ,,,,,,,8/1/2016
+4,Couple Leisure,Economy  ,,,,,,,8/1/2016
+3,Family Leisure,Premium Economy,,,,,,,8/1/2016
+4,Family Leisure,First  ,,,,,,,7/1/2016
+1,Business,First  ,,,,,,,8/1/2016
+9,Couple Leisure,Business  ,,,,,,,7/1/2016
+1,Couple Leisure,Business  ,,,,,,,8/1/2016
+7,Business,Economy  ,,,,,,,8/1/2016
+3,Solo Leisure,Economy  ,,,,,,,8/1/2016
+5,Family Leisure,Economy  ,,,,,,,8/1/2016
+7,Solo Leisure,Economy  ,,,,,,,8/1/2016
+3,Solo Leisure,Economy  ,,,,,,,8/1/2016
+8,Business,Economy  ,,,,,,,8/1/2016
+5,Couple Leisure,Business  ,,,,,,,8/1/2016
+1,Solo Leisure,Economy  ,,,,,,,8/1/2016
+10,Solo Leisure,Economy  ,,,,,,,8/1/2016
+7,Solo Leisure,Economy  ,,,,,,,8/1/2016
+10,Couple Leisure,Business  ,,,,,,,4/1/2016
+1,Business,Business  ,,,,,,,8/1/2016
+2,Couple Leisure,Business  ,,,,,,,6/1/2016
+3,Solo Leisure,Premium Economy,,,,,,,8/1/2016
+1,Solo Leisure,Economy  ,,,,,,,6/1/2016
+8,Solo Leisure,Economy  ,,,,,,,8/1/2016
+7,Couple Leisure,Business  ,,,,,,,6/1/2016
+6,Family Leisure,Business  ,,,,,,,7/1/2016
+8,Business,Premium Economy,,,,,,,7/1/2016
+6,Solo Leisure,First  ,,,,,,,7/1/2016
+7,Couple Leisure,Business  ,,,,,,,4/1/2016
+7,Family Leisure,Business  ,,,,,,,7/1/2016
+8,Business,Business  ,,,,,,,7/1/2016
+8,Solo Leisure,Economy  ,,,,,,,7/1/2016
+6,Business,Economy  ,,,,,,,7/1/2016
+10,Couple Leisure,Economy  ,,,,,,,7/1/2016
+5,Business,Economy  ,,,,,,,7/1/2016
+5,Business,Business  ,,,,,,,7/1/2016
+1,Couple Leisure,Premium Economy,,,,,,,7/1/2016
+1,Family Leisure,Business  ,,,,,,,7/1/2016
+1,Couple Leisure,Economy  ,,,,,,,7/1/2016
+1,Couple Leisure,Economy  ,,,,,,,7/1/2016
+4,Couple Leisure,First  ,,,,,,,7/1/2016
+10,Solo Leisure,First  ,,,,,,,7/1/2016
+10,Solo Leisure,Business  ,,,,,,,7/1/2016
+3,Solo Leisure,Business  ,,,,,,,7/1/2016
+7,Couple Leisure,Business  ,,,,,,,7/1/2016
+3,Business,First  ,,,,,,,7/1/2016
+7,Business,Business  ,,,,,,,7/1/2016
+1,Business,Business  ,,,,,,,7/1/2016
+3,Couple Leisure,Business  ,,,,,,,7/1/2016
+1,Solo Leisure,Economy  ,,,,,,,7/1/2016
+2,Solo Leisure,Business  ,,,,,,,6/1/2016
+2,Solo Leisure,Business  ,,,,,,,7/1/2016
+1,Business,Economy  ,,,,,,,7/1/2016
+4,Solo Leisure,Business  ,,,,,,,6/1/2016
+2,Business,Business  ,,,,,,,7/1/2016
+1,Business,Business  ,,,,,,,3/1/2016
+9,Solo Leisure,Economy  ,,,,,,,8/1/2015
+2,Solo Leisure,Economy  ,,,,,,,10/1/2015
+1,Business,Premium Economy,,,,,,,7/1/2016
+8,Business,Business  ,,,,,,,6/1/2016
+8,Couple Leisure,First  ,,,,,,,6/1/2016
+1,Solo Leisure,Economy  ,,,,,,,6/1/2016
+3,Business,Economy  ,,,,,,,6/1/2016
+8,Couple Leisure,Economy  ,,,,,,,4/1/2016
+6,Couple Leisure,Business  ,,,,,,,6/1/2016
+9,Couple Leisure,Business  ,,,,,,,6/1/2016
+2,Solo Leisure,Premium Economy,,,,,,,6/1/2016
+1,Solo Leisure,Economy  ,,,,,,,6/1/2016
+3,Couple Leisure,Economy  ,,,,,,,6/1/2016
+3,Couple Leisure,First  ,,,,,,,6/1/2016
+3,Solo Leisure,Economy  ,,,,,,,6/1/2016
+10,Couple Leisure,Premium Economy,,,,,,,6/1/2016
+8,Couple Leisure,Economy  ,,,,,,,6/1/2016
+8,Family Leisure,Economy  ,,,,,,,6/1/2016
+2,Couple Leisure,Business  ,,,,,,,6/1/2016
+2,Couple Leisure,Premium Economy,,,,,,,5/1/2016
+2,Family Leisure,Economy  ,,,,,,,6/1/2016
+10,Solo Leisure,Economy  ,,,,,,,6/1/2016
+1,Family Leisure,First  ,,,,,,,6/1/2016
+1,Couple Leisure,Economy  ,,,,,,,5/1/2016
+1,Business,Business  ,,,,,,,6/1/2016
+5,Business,Economy  ,,,,,,,6/1/2016
+3,Couple Leisure,Economy  ,,,,,,,6/1/2016
+10,Couple Leisure,Business  ,,,,,,,4/1/2016
+8,Solo Leisure,Business  ,,,,,,,5/1/2016
+1,Couple Leisure,Economy  ,,,,,,,6/1/2016
+2,Couple Leisure,Premium Economy,,,,,,,6/1/2016
+4,Solo Leisure,First  ,,,,,,,6/1/2016
+7,Solo Leisure,Premium Economy,,,,,,,6/1/2016
+3,Couple Leisure,Business  ,,,,,,,6/1/2016
+4,Couple Leisure,Business  ,,,,,,,5/1/2016
+10,Couple Leisure,Business  ,,,,,,,6/1/2016
+8,Solo Leisure,First  ,,,,,,,6/1/2016
+8,Couple Leisure,Business  ,,,,,,,6/1/2016
+2,Couple Leisure,Premium Economy,,,,,,,5/1/2016
+4,Business,Economy  ,,,,,,,6/1/2016
+10,Solo Leisure,First  ,,,,,,,6/1/2016
+5,Couple Leisure,Economy  ,,,,,,,4/1/2016
+7,Couple Leisure,First  ,,,,,,,6/1/2016
+3,Couple Leisure,Economy  ,,,,,,,5/1/2016
+4,Family Leisure,Economy  ,,,,,,,5/1/2016
+5,Couple Leisure,Business  ,,,,,,,5/1/2016
+9,Solo Leisure,Economy  ,,,,,,,5/1/2016
+3,Solo Leisure,Economy  ,,,,,,,5/1/2016
+4,Couple Leisure,Economy  ,,,,,,,5/1/2016
+8,Solo Leisure,Economy  ,,,,,,,5/1/2016
+8,Solo Leisure,Premium Economy,,,,,,,5/1/2016
+5,Couple Leisure,Economy  ,,,,,,,5/1/2016
+8,Couple Leisure,Economy  ,,,,,,,5/1/2016
+9,Solo Leisure,Business  ,,,,,,,3/1/2016
+2,Business,Business  ,,,,,,,5/1/2016
+1,Couple Leisure,Economy  ,,,,,,,5/1/2016
+7,Solo Leisure,Economy  ,,,,,,,5/1/2016
+5,Couple Leisure,Economy  ,,,,,,,5/1/2016
+8,Family Leisure,Business  ,,,,,,,5/1/2016
+2,Business,Business  ,,,,,,,5/1/2016
+10,Solo Leisure,Economy  ,,,,,,,5/1/2016
+8,Couple Leisure,Economy  ,,,,,,,5/1/2016
+1,Business,Economy  ,,,,,,,5/1/2016
+5,Couple Leisure,Economy  ,,,,,,,3/1/2016
+1,Couple Leisure,Economy  ,,,,,,,5/1/2016
+10,Couple Leisure,Economy  ,,,,,,,5/1/2016
+6,Couple Leisure,Economy  ,,,,,,,5/1/2016
+5,Couple Leisure,Business  ,,,,,,,5/1/2016
+8,Couple Leisure,Economy  ,,,,,,,4/1/2016
+4,Couple Leisure,Economy  ,,,,,,,5/1/2016
+7,Couple Leisure,Business  ,,,,,,,5/1/2016
+8,Couple Leisure,Business  ,,,,,,,5/1/2016
+5,Solo Leisure,Economy  ,,,,,,,5/1/2016
+2,Couple Leisure,Business  ,,,,,,,5/1/2016
+2,Solo Leisure,Economy  ,,,,,,,5/1/2016
+7,Family Leisure,Economy  ,,,,,,,5/1/2016
+3,Family Leisure,Premium Economy,,,,,,,5/1/2016
+9,Solo Leisure,Economy  ,,,,,,,5/1/2016
+1,Couple Leisure,Economy  ,,,,,,,5/1/2016
+1,Couple Leisure,Business  ,,,,,,,5/1/2016
+8,Solo Leisure,Premium Economy,,,,,,,5/1/2016
+5,Solo Leisure,Premium Economy,,,,,,,5/1/2016
+1,Couple Leisure,Economy  ,,,,,,,5/1/2016
+5,Solo Leisure,Economy  ,,,,,,,5/1/2016
+3,Solo Leisure,Premium Economy,,,,,,,5/1/2016
+7,Business,Business  ,,,,,,,5/1/2016
+1,Couple Leisure,Business  ,,,,,,,5/1/2016
+3,Couple Leisure,Economy  ,,,,,,,12/1/2015
+1,Solo Leisure,Economy  ,,,,,,,5/1/2016
+2,Solo Leisure,Economy  ,,,,,,,4/1/2016
+3,Solo Leisure,Economy  ,,,,,,,5/1/2016
+10,Couple Leisure,Business  ,,,,,,,5/1/2016
+2,Solo Leisure,Economy  ,,,,,,,11/1/2015
+9,Couple Leisure,First  ,,,,,,,3/1/2016
+3,Solo Leisure,Economy  ,,,,,,,4/1/2016
+5,Couple Leisure,Economy  ,,,,,,,4/1/2016
+3,Business,Business  ,,,,,,,4/1/2016
+7,Business,Business  ,,,,,,,4/1/2016
+8,Family Leisure,Business  ,,,,,,,4/1/2016
+7,Business,Economy  ,,,,,,,4/1/2016
+7,Solo Leisure,Economy  ,,,,,,,4/1/2016
+10,Family Leisure,Business  ,,,,,,,4/1/2016
+5,Family Leisure,Economy  ,,,,,,,4/1/2016
+1,Solo Leisure,Economy  ,,,,,,,4/1/2016
+1,Family Leisure,Economy  ,,,,,,,4/1/2016
+1,Business,Business  ,,,,,,,4/1/2016
+7,Couple Leisure,Premium Economy,,,,,,,3/1/2016
+9,Couple Leisure,First  ,,,,,,,4/1/2016
+3,Business,Economy  ,,,,,,,4/1/2016
+10,Solo Leisure,First  ,,,,,,,3/1/2016
+10,Couple Leisure,Business  ,,,,,,,4/1/2016
+4,Business,Economy  ,,,,,,,4/1/2016
+6,Business,Premium Economy,,,,,,,4/1/2016
+2,Couple Leisure,Economy  ,,,,,,,4/1/2016
+4,Business,First  ,,,,,,,4/1/2016
+3,Business,Business  ,,,,,,,2/1/2016
+2,Solo Leisure,Economy  ,,,,,,,4/1/2016
+1,Family Leisure,Economy  ,,,,,,,4/1/2016
+2,Couple Leisure,Economy  ,,,,,,,1/1/2016
+10,Couple Leisure,Economy  ,,,,,,,4/1/2016
+8,Solo Leisure,Business  ,,,,,,,4/1/2016
+8,Solo Leisure,Business  ,,,,,,,2/1/2016
+8,Solo Leisure,Economy  ,,,,,,,4/1/2016
+7,Solo Leisure,Economy  ,,,,,,,3/1/2016
+8,Solo Leisure,Premium Economy,,,,,,,3/1/2016
+10,Couple Leisure,Business  ,,,,,,,3/1/2016
+8,Solo Leisure,Premium Economy,,,,,,,5/1/2015
+9,Couple Leisure,Premium Economy,,,,,,,3/1/2016
+8,Family Leisure,Economy  ,,,,,,,4/1/2016
+4,Business,Business  ,,,,,,,4/1/2016
+5,Solo Leisure,Business  ,,,,,,,4/1/2016
+6,Solo Leisure,Economy  ,,,,,,,4/1/2016
+2,Solo Leisure,Economy  ,,,,,,,4/1/2016
+7,Family Leisure,Business  ,,,,,,,4/1/2016
+10,Couple Leisure,Economy  ,,,,,,,4/1/2016
+5,Solo Leisure,Economy  ,,,,,,,4/1/2016
+8,Business,Economy  ,,,,,,,3/1/2016
+9,Couple Leisure,Business  ,,,,,,,3/1/2016
+10,Couple Leisure,Business  ,,,,,,,3/1/2016
+6,Couple Leisure,Business  ,,,,,,,3/1/2016
+7,Business,Business  ,,,,,,,3/1/2016
+3,Solo Leisure,Economy  ,,,,,,,3/1/2016
+2,Couple Leisure,Business  ,,,,,,,3/1/2016
+4,Couple Leisure,Premium Economy,,,,,,,3/1/2016
+7,Family Leisure,Economy  ,,,,,,,3/1/2016
+7,Family Leisure,Economy  ,,,,,,,3/1/2016
+7,Family Leisure,Economy  ,,,,,,,3/1/2016
+8,Solo Leisure,Economy  ,,,,,,,3/1/2016
+3,Couple Leisure,Business  ,,,,,,,3/1/2016
+8,Couple Leisure,Economy  ,,,,,,,3/1/2016
+1,Couple Leisure,First  ,,,,,,,3/1/2016
+7,Solo Leisure,Economy  ,,,,,,,3/1/2016
+7,Solo Leisure,Economy  ,,,,,,,3/1/2016
+5,Solo Leisure,Business  ,,,,,,,3/1/2016
+10,Solo Leisure,First  ,,,,,,,3/1/2016
+10,Solo Leisure,Business  ,,,,,,,3/1/2016
+3,Couple Leisure,Economy  ,,,,,,,3/1/2016
+6,Business,Economy  ,,,,,,,3/1/2016
+3,Couple Leisure,Economy  ,,,,,,,3/1/2016
+1,Solo Leisure,Premium Economy,,,,,,,1/1/2016
+9,Couple Leisure,Premium Economy,,,,,,,3/1/2016
+7,Solo Leisure,Economy  ,,,,,,,1/1/2016
+9,Solo Leisure,Business  ,,,,,,,2/1/2016
+10,Solo Leisure,Business  ,,,,,,,2/1/2016
+1,Couple Leisure,Economy  ,,,,,,,3/1/2016
+10,Couple Leisure,Economy  ,,,,,,,3/1/2016
+5,Couple Leisure,Premium Economy,,,,,,,3/1/2016
+1,Business,Economy  ,,,,,,,3/1/2016
+7,Solo Leisure,Economy  ,,,,,,,3/1/2016
+8,Solo Leisure,Business  ,,,,,,,2/1/2016
+1,Business,Economy  ,,,,,,,3/1/2016
+4,Couple Leisure,Premium Economy,,,,,,,11/1/2015
+2,Business,Premium Economy,,,,,,,3/1/2016
+10,Solo Leisure,Economy  ,,,,,,,3/1/2016
+3,Couple Leisure,Business  ,,,,,,,2/1/2016
+9,Couple Leisure,Premium Economy,,,,,,,9/1/2015
+5,Couple Leisure,Economy  ,,,,,,,3/1/2016
+8,Couple Leisure,First  ,,,,,,,3/1/2016
+1,Business,Business  ,,,,,,,2/1/2016
+8,Couple Leisure,Premium Economy,,,,,,,2/1/2016
+2,Business,First  ,,,,,,,2/1/2016
+9,Solo Leisure,Economy  ,,,,,,,3/1/2016
+8,Business,Economy  ,,,,,,,2/1/2016
+8,Solo Leisure,Business  ,,,,,,,2/1/2016
+4,Solo Leisure,Economy  ,,,,,,,9/1/2015
+3,Business,Business  ,,,,,,,3/1/2016
+7,Couple Leisure,Economy  ,,,,,,,2/1/2016
+9,Solo Leisure,Economy  ,,,,,,,3/1/2016
+9,Business,Business  ,,,,,,,2/1/2016
+8,Solo Leisure,Business  ,,,,,,,3/1/2016
+7,Solo Leisure,Economy  ,,,,,,,2/1/2016
+5,Business,Economy  ,,,,,,,3/1/2016
+4,Solo Leisure,Economy  ,,,,,,,3/1/2016
+8,Couple Leisure,Economy  ,,,,,,,2/1/2016
+9,Solo Leisure,Economy  ,,,,,,,2/1/2016
+1,Business,Business  ,,,,,,,2/1/2016
+3,Solo Leisure,Business  ,,,,,,,2/1/2016
+7,Business,Economy  ,,,,,,,2/1/2016
+2,Couple Leisure,Premium Economy,,,,,,,2/1/2016
+3,Couple Leisure,First  ,,,,,,,1/1/2016
+1,Family Leisure,Premium Economy,,,,,,,8/1/2015
+8,Couple Leisure,Business  ,,,,,,,2/1/2016
+9,Couple Leisure,Economy  ,,,,,,,1/1/2016
+3,Solo Leisure,Premium Economy,,,,,,,2/1/2016
+2,Couple Leisure,First  ,,,,,,,2/1/2016
+9,Couple Leisure,Economy  ,,,,,,,2/1/2016
+1,Family Leisure,Economy  ,,,,,,,2/1/2016
+2,Business,Business  ,,,,,,,2/1/2016
+6,Couple Leisure,Business  ,,,,,,,2/1/2016
+8,Solo Leisure,Economy  ,,,,,,,2/1/2016
+1,Solo Leisure,Business  ,,,,,,,2/1/2016
+3,Solo Leisure,Business  ,,,,,,,2/1/2016
+6,Couple Leisure,Economy  ,,,,,,,2/1/2016
+1,Family Leisure,Economy  ,,,,,,,1/1/2016
+8,Solo Leisure,Business  ,,,,,,,1/1/2016
+9,Couple Leisure,First  ,,,,,,,12/1/2015
+7,Family Leisure,Business  ,,,,,,,2/1/2016
+3,Family Leisure,Business  ,,,,,,,2/1/2016
+8,Solo Leisure,Economy  ,,,,,,,12/1/2015
+8,Solo Leisure,Economy  ,,,,,,,1/1/2016
+8,Business,Business  ,,,,,,,2/1/2016
+9,Solo Leisure,First  ,,,,,,,11/1/2015
+8,Business,Business  ,,,,,,,12/1/2015
+2,Family Leisure,Economy  ,,,,,,,2/1/2016
+4,Business,Business  ,,,,,,,1/1/2016
+8,Solo Leisure,Economy  ,,,,,,,2/1/2016
+3,Family Leisure,Economy  ,,,,,,,2/1/2016
+10,Couple Leisure,Economy  ,,,,,,,1/1/2016
+8,Solo Leisure,Economy  ,,,,,,,1/1/2016
+5,Couple Leisure,First  ,,,,,,,2/1/2016
+1,Couple Leisure,Premium Economy,,,,,,,2/1/2016
+8,Couple Leisure,First  ,,,,,,,1/1/2016
+7,Couple Leisure,Economy  ,,,,,,,1/1/2016
+10,Business,First  ,,,,,,,1/1/2016
+7,Solo Leisure,Business  ,,,,,,,10/1/2015
+1,Solo Leisure,Economy  ,,,,,,,1/1/2016
+2,Solo Leisure,Economy  ,,,,,,,12/1/2015
+3,Couple Leisure,Economy  ,,,,,,,1/1/2016
+7,Couple Leisure,Business  ,,,,,,,1/1/2016
+1,Couple Leisure,Business  ,,,,,,,1/1/2016
+7,Family Leisure,Economy  ,,,,,,,1/1/2016
+4,Couple Leisure,Economy  ,,,,,,,1/1/2016
+3,Couple Leisure,Business  ,,,,,,,1/1/2016
+10,Couple Leisure,Economy  ,,,,,,,12/1/2015
+10,Solo Leisure,Premium Economy,,,,,,,12/1/2015
+6,Solo Leisure,Premium Economy,,,,,,,1/1/2016
+1,Solo Leisure,Premium Economy,,,,,,,1/1/2016
+6,Solo Leisure,Economy  ,,,,,,,10/1/2015
+7,Solo Leisure,Economy  ,,,,,,,9/1/2015
+1,Family Leisure,Premium Economy,,,,,,,1/1/2016
+4,Couple Leisure,Economy  ,,,,,,,12/1/2015
+8,Solo Leisure,Economy  ,,,,,,,9/1/2015
+2,Business,Economy  ,,,,,,,1/1/2016
+8,Solo Leisure,Economy  ,,,,,,,1/1/2016
+4,Solo Leisure,First  ,,,,,,,12/1/2015
+8,Solo Leisure,Business  ,,,,,,,2/1/2015
+2,Family Leisure,Economy  ,,,,,,,1/1/2016
+8,Solo Leisure,Economy  ,,,,,,,1/1/2016
+2,Business,Economy  ,,,,,,,12/1/2015
+3,Couple Leisure,Economy  ,,,,,,,9/1/2015
+7,Couple Leisure,Business  ,,,,,,,1/1/2016
+7,Solo Leisure,Economy  ,,,,,,,1/1/2016
+1,Couple Leisure,Business  ,,,,,,,12/1/2015
+3,Business,Business  ,,,,,,,10/1/2015
+6,Family Leisure,Premium Economy,,,,,,,12/1/2015
+8,Family Leisure,Economy  ,,,,,,,12/1/2015
+7,Couple Leisure,Business  ,,,,,,,12/1/2015
+8,Couple Leisure,First  ,,,,,,,1/1/2016
+1,Family Leisure,First  ,,,,,,,12/1/2015
+6,Couple Leisure,Premium Economy,,,,,,,1/1/2016
+1,Couple Leisure,Economy  ,,,,,,,12/1/2015
+3,Couple Leisure,Economy  ,,,,,,,1/1/2016
+8,Couple Leisure,Economy  ,,,,,,,1/1/2016
+2,Couple Leisure,Economy  ,,,,,,,12/1/2015
+7,Solo Leisure,Economy  ,,,,,,,11/1/2015
+9,Family Leisure,Economy  ,,,,,,,1/1/2016
+2,Solo Leisure,Economy  ,,,,,,,1/1/2016
+1,Couple Leisure,Premium Economy,,,,,,,12/1/2015
+2,Family Leisure,Economy  ,,,,,,,12/1/2015
+6,Solo Leisure,Economy  ,,,,,,,6/1/2015
+8,Family Leisure,Business  ,,,,,,,12/1/2015
+9,Business,Business  ,,,,,,,11/1/2015
+1,Couple Leisure,Business  ,,,,,,,12/1/2015
+5,Solo Leisure,Economy  ,,,,,,,11/1/2015
+7,Solo Leisure,Economy  ,,,,,,,12/1/2015
+4,Solo Leisure,Economy  ,,,,,,,12/1/2015
+10,Solo Leisure,Economy  ,,,,,,,12/1/2015
+3,Couple Leisure,Economy  ,,,,,,,12/1/2015
+1,Business,Economy  ,,,,,,,12/1/2015
+5,Solo Leisure,Business  ,,,,,,,12/1/2015
+4,Couple Leisure,Premium Economy,,,,,,,10/1/2015
+2,Family Leisure,Premium Economy,,,,,,,12/1/2015
+3,Business,Economy  ,,,,,,,12/1/2015
+1,Family Leisure,Economy  ,,,,,,,12/1/2015
+9,Couple Leisure,Business  ,,,,,,,12/1/2015
+9,Couple Leisure,Economy  ,,,,,,,12/1/2015
+1,Couple Leisure,Economy  ,,,,,,,9/1/2015
+1,Couple Leisure,Economy  ,,,,,,,12/1/2015
+5,Couple Leisure,First  ,,,,,,,12/1/2015
+9,Family Leisure,Economy  ,,,,,,,12/1/2015
+9,Couple Leisure,Business  ,,,,,,,12/1/2015
+7,Family Leisure,Economy  ,,,,,,,12/1/2015
+7,Solo Leisure,Economy  ,,,,,,,12/1/2015
+5,Couple Leisure,Business  ,,,,,,,10/1/2015
+9,Couple Leisure,Business  ,,,,,,,11/1/2015
+1,Solo Leisure,Economy  ,,,,,,,12/1/2015
+10,Couple Leisure,Business  ,,,,,,,12/1/2015
+3,Solo Leisure,Business  ,,,,,,,12/1/2015
+1,Couple Leisure,Premium Economy,,,,,,,11/1/2015
+10,Couple Leisure,Business  ,,,,,,,12/1/2015
+10,Business,Economy  ,,,,,,,12/1/2015
+9,Couple Leisure,Business  ,,,,,,,12/1/2015
+7,Business,Business  ,,,,,,,8/1/2015
+10,Family Leisure,Economy  ,,,,,,,12/1/2015
+1,Business,Premium Economy,,,,,,,11/1/2015
+2,Solo Leisure,Economy  ,,,,,,,12/1/2015
+3,Couple Leisure,Economy  ,,,,,,,12/1/2015
+10,Couple Leisure,Economy  ,,,,,,,12/1/2015
+10,Solo Leisure,Economy  ,,,,,,,12/1/2015
+8,Solo Leisure,Premium Economy,,,,,,,11/1/2015
+6,Solo Leisure,Economy  ,,,,,,,12/1/2015
+9,Couple Leisure,Business  ,,,,,,,12/1/2015
+9,Solo Leisure,Business  ,,,,,,,12/1/2015
+3,Solo Leisure,First  ,,,,,,,8/1/2015
+9,Couple Leisure,Business  ,,,,,,,12/1/2015
+7,Solo Leisure,Economy  ,,,,,,,12/1/2015
+10,Solo Leisure,Economy  ,,,,,,,12/1/2015
+4,Couple Leisure,Economy  ,,,,,,,12/1/2015
+6,Solo Leisure,Economy  ,,,,,,,11/1/2015
+8,Couple Leisure,Premium Economy,,,,,,,12/1/2015
+7,Solo Leisure,First  ,,,,,,,11/1/2015
+3,Business,First  ,,,,,,,11/1/2015
+8,Couple Leisure,Business  ,,,,,,,11/1/2015
+6,Couple Leisure,Premium Economy,,,,,,,11/1/2015
+1,Couple Leisure,Economy  ,,,,,,,7/1/2015
+6,Couple Leisure,Economy  ,,,,,,,11/1/2015
+2,Couple Leisure,Economy  ,,,,,,,10/1/2015
+5,Couple Leisure,Premium Economy,,,,,,,11/1/2015
+6,Family Leisure,Economy  ,,,,,,,11/1/2015
+8,Solo Leisure,Economy  ,,,,,,,11/1/2015
+9,Solo Leisure,Economy  ,,,,,,,11/1/2015
+3,Couple Leisure,Business  ,,,,,,,10/1/2015
+3,Couple Leisure,Economy  ,,,,,,,11/1/2015
+4,Couple Leisure,Premium Economy,,,,,,,10/1/2015
+4,Solo Leisure,Premium Economy,,,,,,,10/1/2015
+6,Business,Economy  ,,,,,,,1/1/2015
+1,Couple Leisure,Economy  ,,,,,,,11/1/2015
+4,Couple Leisure,Business  ,,,,,,,11/1/2015
+1,Business,Economy  ,,,,,,,11/1/2015
+9,Couple Leisure,First  ,,,,,,,11/1/2015
+7,Couple Leisure,Business  ,,,,,,,11/1/2015
+8,Solo Leisure,Premium Economy,,,,,,,11/1/2015
+8,Solo Leisure,Economy  ,,,,,,,8/1/2015
+8,Couple Leisure,Premium Economy,,,,,,,11/1/2015
+1,Couple Leisure,Economy  ,,,,,,,11/1/2015
+1,Business,Business  ,,,,,,,11/1/2015
+5,Couple Leisure,Premium Economy,,,,,,,11/1/2015
+7,Business,Economy  ,,,,,,,11/1/2015
+7,Couple Leisure,Business  ,,,,,,,11/1/2015
+1,Business,Economy  ,,,,,,,11/1/2015
+8,Couple Leisure,Business  ,,,,,,,11/1/2015
+6,Solo Leisure,Business  ,,,,,,,11/1/2015
+6,Couple Leisure,Premium Economy,,,,,,,11/1/2015
+3,Business,Business  ,,,,,,,11/1/2015
+2,Business,Economy  ,,,,,,,11/1/2015
+3,Business,Business  ,,,,,,,11/1/2015
+7,Solo Leisure,Business  ,,,,,,,11/1/2015
+8,Solo Leisure,First  ,,,,,,,11/1/2015
+2,Business,Economy  ,,,,,,,11/1/2015
+8,Business,Premium Economy,,,,,,,10/1/2015
+8,Solo Leisure,Economy  ,,,,,,,9/1/2015
+1,Business,Economy  ,,,,,,,11/1/2015
+10,Solo Leisure,Economy  ,,,,,,,11/1/2015
+5,Couple Leisure,First  ,,,,,,,11/1/2015
+3,Couple Leisure,Business  ,,,,,,,11/1/2015
+3,Business,Business  ,,,,,,,11/1/2015
+4,Couple Leisure,Economy  ,,,,,,,11/1/2015
+4,Family Leisure,Economy  ,,,,,,,10/1/2015
+3,Family Leisure,Economy  ,,,,,,,11/1/2015
+3,Solo Leisure,Economy  ,,,,,,,10/1/2015
+5,Solo Leisure,Economy  ,,,,,,,11/1/2015
+5,Couple Leisure,Business  ,,,,,,,11/1/2015
+3,Family Leisure,Economy  ,,,,,,,11/1/2015
+3,Business,Business  ,,,,,,,11/1/2015
+1,Couple Leisure,Business  ,,,,,,,9/1/2015
+9,Couple Leisure,First  ,,,,,,,11/1/2015
+7,Couple Leisure,First  ,,,,,,,10/1/2015
+3,Business,Economy  ,,,,,,,11/1/2015
+5,Couple Leisure,Business  ,,,,,,,10/1/2015
+7,Business,Premium Economy,,,,,,,11/1/2015
+1,Business,Economy  ,,,,,,,11/1/2015
+9,Solo Leisure,First  ,,,,,,,5/1/2015
+3,Solo Leisure,Economy  ,,,,,,,11/1/2015
+1,Solo Leisure,Economy  ,,,,,,,11/1/2015
+8,Family Leisure,Economy  ,,,,,,,10/1/2015
+3,Solo Leisure,Economy  ,,,,,,,10/1/2015
+1,Solo Leisure,Economy  ,,,,,,,9/1/2015
+1,Business,Business  ,,,,,,,11/1/2015
+10,Solo Leisure,Economy  ,,,,,,,10/1/2015
+10,Couple Leisure,Business  ,,,,,,,11/1/2015
+4,Business,First  ,,,,,,,10/1/2015
+5,Solo Leisure,Premium Economy,,,,,,,11/1/2015
+9,Family Leisure,Economy  ,,,,,,,11/1/2015
+6,Family Leisure,Economy  ,,,,,,,10/1/2015
+10,Solo Leisure,Economy  ,,,,,,,11/1/2015
+3,Solo Leisure,Business  ,,,,,,,10/1/2015
+9,Solo Leisure,Economy  ,,,,,,,9/1/2015
+3,Business,Business  ,,,,,,,11/1/2015
+5,Couple Leisure,Business  ,,,,,,,10/1/2015
+6,Solo Leisure,Economy  ,,,,,,,9/1/2015
+5,Family Leisure,Economy  ,,,,,,,10/1/2015
+3,Couple Leisure,Premium Economy,,,,,,,10/1/2015
+7,Solo Leisure,Premium Economy,,,,,,,10/1/2015
+9,Business,Economy  ,,,,,,,10/1/2015
+5,Solo Leisure,Business  ,,,,,,,3/1/2015
+6,Business,Business  ,,,,,,,1/1/2015
+9,Business,First  ,,,,,,,1/1/2015
+1,Couple Leisure,Economy  ,,,,,,,10/1/2015
+8,Solo Leisure,Premium Economy,,,,,,,10/1/2015
+7,Solo Leisure,Economy  ,,,,,,,9/1/2015
+10,Couple Leisure,Economy  ,,,,,,,10/1/2015
+9,Couple Leisure,Business  ,,,,,,,10/1/2015
+2,Solo Leisure,Economy  ,,,,,,,9/1/2015
+7,Business,Premium Economy,,,,,,,10/1/2015
+1,Solo Leisure,Economy  ,,,,,,,9/1/2015
+2,Couple Leisure,Premium Economy,,,,,,,10/1/2015
+3,Couple Leisure,Economy  ,,,,,,,1/1/2015
+5,Couple Leisure,Economy  ,,,,,,,10/1/2015
+2,Business,Economy  ,,,,,,,10/1/2015
+5,Business,Business  ,,,,,,,10/1/2015
+3,Solo Leisure,Economy  ,,,,,,,10/1/2015
+5,Solo Leisure,Business  ,,,,,,,10/1/2015
+2,Couple Leisure,Economy  ,,,,,,,8/1/2015
+8,Couple Leisure,Premium Economy,,,,,,,10/1/2015
+4,Solo Leisure,Premium Economy,,,,,,,9/1/2015
+2,Couple Leisure,Business  ,,,,,,,10/1/2015
+9,Couple Leisure,Premium Economy,,,,,,,10/1/2015
+4,Couple Leisure,Business  ,,,,,,,10/1/2015
+4,Family Leisure,Business  ,,,,,,,10/1/2015
+3,Business,Economy  ,,,,,,,10/1/2015
+8,Couple Leisure,Business  ,,,,,,,10/1/2015
+3,Business,Business  ,,,,,,,10/1/2015
+2,Business,Business  ,,,,,,,10/1/2015
+8,Couple Leisure,Business  ,,,,,,,10/1/2015
+7,Family Leisure,Premium Economy,,,,,,,10/1/2015
+5,Business,Premium Economy,,,,,,,9/1/2015
+8,Couple Leisure,Economy  ,,,,,,,10/1/2015
+3,Solo Leisure,Economy  ,,,,,,,10/1/2015
+2,Couple Leisure,Economy  ,,,,,,,10/1/2015
+6,Couple Leisure,Business  ,,,,,,,10/1/2015
+1,Solo Leisure,Economy  ,,,,,,,8/1/2015
+9,Couple Leisure,Business  ,,,,,,,9/1/2015
+1,Solo Leisure,Business  ,,,,,,,10/1/2015
+1,Business,Business  ,,,,,,,9/1/2015
+3,Solo Leisure,Business  ,,,,,,,9/1/2015
+9,Solo Leisure,Economy  ,,,,,,,10/1/2015
+6,Family Leisure,First  ,,,,,,,10/1/2015
+9,Solo Leisure,Economy  ,,,,,,,9/1/2015
+3,Couple Leisure,Economy  ,,,,,,,10/1/2015
+7,Couple Leisure,Economy  ,,,,,,,10/1/2015
+4,Business,Economy  ,,,,,,,10/1/2015
+9,Business,Business  ,,,,,,,8/1/2015
+6,Family Leisure,Economy  ,,,,,,,8/1/2015
+1,Solo Leisure,Economy  ,,,,,,,10/1/2015
+7,Solo Leisure,Economy  ,,,,,,,4/1/2015
+6,Couple Leisure,Premium Economy,,,,,,,10/1/2015
+8,Couple Leisure,Business  ,,,,,,,10/1/2015
+5,Couple Leisure,Economy  ,,,,,,,10/1/2015
+4,Family Leisure,Economy  ,,,,,,,4/1/2015
+4,Couple Leisure,Economy  ,,,,,,,9/1/2015
+7,Business,First  ,,,,,,,9/1/2015
+2,Couple Leisure,Premium Economy,,,,,,,9/1/2015
+1,Family Leisure,Economy  ,,,,,,,2/1/2015
+9,Couple Leisure,Economy  ,,,,,,,10/1/2015
+6,Business,Business  ,,,,,,,9/1/2015
+6,Business,Premium Economy,,,,,,,9/1/2015
+8,Solo Leisure,Business  ,,,,,,,9/1/2015
+3,Solo Leisure,Economy  ,,,,,,,10/1/2015
+3,Couple Leisure,Economy  ,,,,,,,9/1/2015
+2,Business,Economy  ,,,,,,,9/1/2015
+4,Family Leisure,Business  ,,,,,,,12/1/2014
+5,Business,Business  ,,,,,,,9/1/2015
+9,Solo Leisure,Economy  ,,,,,,,9/1/2015
+3,Solo Leisure,Economy  ,,,,,,,9/1/2015
+8,Family Leisure,Economy  ,,,,,,,8/1/2015
+1,Couple Leisure,Economy  ,,,,,,,9/1/2015
+6,Business,Economy  ,,,,,,,9/1/2015
+5,Couple Leisure,Economy  ,,,,,,,9/1/2015
+4,Couple Leisure,Economy  ,,,,,,,8/1/2015
+5,Solo Leisure,Business  ,,,,,,,9/1/2015
+1,Family Leisure,Economy  ,,,,,,,9/1/2015
+8,Solo Leisure,Business  ,,,,,,,9/1/2015
+4,Solo Leisure,Business  ,,,,,,,9/1/2015
+8,Family Leisure,Economy  ,,,,,,,9/1/2015
+7,Business,Business  ,,,,,,,9/1/2015
+6,Business,Business  ,,,,,,,9/1/2015
+4,Family Leisure,Economy  ,,,,,,,8/1/2015
+7,Couple Leisure,Business  ,,,,,,,5/1/2015
+3,Business,Business  ,,,,,,,9/1/2015
+3,Solo Leisure,Business  ,,,,,,,9/1/2015
+8,Solo Leisure,Economy  ,,,,,,,9/1/2015
+1,Couple Leisure,Economy  ,,,,,,,9/1/2015
+10,Solo Leisure,Premium Economy,,,,,,,9/1/2015
+4,Couple Leisure,Economy  ,,,,,,,9/1/2015
+5,Couple Leisure,Business  ,,,,,,,9/1/2015
+2,Couple Leisure,Economy  ,,,,,,,9/1/2015
+8,Couple Leisure,Economy  ,,,,,,,9/1/2015
+7,Couple Leisure,Economy  ,,,,,,,9/1/2015
+3,Solo Leisure,Economy  ,,,,,,,8/1/2015
+10,Business,Business  ,,,,,,,9/1/2015
+10,Couple Leisure,Economy  ,,,,,,,9/1/2015
+1,Business,Business  ,,,,,,,9/1/2015
+5,Couple Leisure,Business  ,,,,,,,9/1/2015
+3,Couple Leisure,First  ,,,,,,,9/1/2015
+7,Solo Leisure,Economy  ,,,,,,,8/1/2015
+3,Family Leisure,Business  ,,,,,,,7/1/2015
+1,Couple Leisure,Economy  ,,,,,,,9/1/2015
+9,Solo Leisure,Business  ,,,,,,,9/1/2015
+8,Couple Leisure,Premium Economy,,,,,,,9/1/2015
+1,Couple Leisure,Economy  ,,,,,,,9/1/2015
+2,Business,Business  ,,,,,,,9/1/2015
+3,Couple Leisure,Economy  ,,,,,,,7/1/2015
+4,Couple Leisure,Economy  ,,,,,,,9/1/2015
+2,Solo Leisure,Business  ,,,,,,,9/1/2015
+8,Solo Leisure,Premium Economy,,,,,,,9/1/2015
+1,Couple Leisure,Economy  ,,,,,,,8/1/2015
+9,Solo Leisure,Premium Economy,,,,,,,9/1/2015
+1,Solo Leisure,Business  ,,,,,,,9/1/2015
+10,Couple Leisure,Economy  ,,,,,,,9/1/2015
+4,Couple Leisure,Economy  ,,,,,,,9/1/2015
+7,Couple Leisure,Economy  ,,,,,,,8/1/2015
+8,Couple Leisure,Economy  ,,,,,,,8/1/2015
+7,Couple Leisure,Business  ,,,,,,,9/1/2015
+2,Couple Leisure,Business  ,,,,,,,8/1/2015
+1,Business,Business  ,,,,,,,9/1/2015
+1,Couple Leisure,Economy  ,,,,,,,9/1/2015
+1,Solo Leisure,Economy  ,,,,,,,4/1/2015
+1,Couple Leisure,First  ,,,,,,,3/1/2015
+4,Solo Leisure,Economy  ,,,,,,,9/1/2015
+1,Family Leisure,Economy  ,,,,,,,9/1/2015
+9,Solo Leisure,Business  ,,,,,,,8/1/2015
+5,Solo Leisure,Economy  ,,,,,,,8/1/2015
+6,Couple Leisure,Economy  ,,,,,,,8/1/2015
+2,Family Leisure,Economy  ,,,,,,,8/1/2015
+1,Business,Business  ,,,,,,,9/1/2015
+1,Solo Leisure,Economy  ,,,,,,,9/1/2015
+9,Couple Leisure,Economy  ,,,,,,,8/1/2015
+7,Business,First  ,,,,,,,9/1/2015
+1,Business,Business  ,,,,,,,8/1/2015
+2,Family Leisure,Economy  ,,,,,,,8/1/2015
+3,Business,Business  ,,,,,,,9/1/2015
+6,Couple Leisure,Business  ,,,,,,,8/1/2015
+9,Couple Leisure,Business  ,,,,,,,8/1/2015
+7,Couple Leisure,Business  ,,,,,,,8/1/2015
+5,Business,First  ,,,,,,,8/1/2015
+6,Business,Business  ,,,,,,,8/1/2015
+3,Couple Leisure,Business  ,,,,,,,8/1/2015
+1,Family Leisure,Economy  ,,,,,,,8/1/2015
+2,Family Leisure,Economy  ,,,,,,,9/1/2015
+7,Couple Leisure,Economy  ,,,,,,,8/1/2015
+10,Family Leisure,Economy  ,,,,,,,8/1/2015
+10,Solo Leisure,Economy  ,,,,,,,8/1/2015
+5,Couple Leisure,Business  ,,,,,,,7/1/2015
+3,Solo Leisure,Economy  ,,,,,,,7/1/2015
+8,Family Leisure,Economy  ,,,,,,,8/1/2015
+3,Family Leisure,Economy  ,,,,,,,8/1/2015
+5,Business,Economy  ,,,,,,,6/1/2015
+3,Business,Economy  ,,,,,,,8/1/2015
+3,Family Leisure,Economy  ,,,,,,,8/1/2015
+8,Business,Business  ,,,,,,,8/1/2015
+1,Business,Economy  ,,,,,,,8/1/2015
+4,Couple Leisure,Business  ,,,,,,,8/1/2015
+6,Solo Leisure,Business  ,,,,,,,8/1/2015
+1,Family Leisure,Economy  ,,,,,,,8/1/2015
+7,Couple Leisure,Business  ,,,,,,,8/1/2015
+8,Solo Leisure,Economy  ,,,,,,,8/1/2015
+1,Couple Leisure,Economy  ,,,,,,,8/1/2015
+3,Couple Leisure,Economy  ,,,,,,,8/1/2015
+1,Couple Leisure,Economy  ,,,,,,,8/1/2015
+10,Couple Leisure,Economy  ,,,,,,,8/1/2015
+2,Solo Leisure,Economy  ,,,,,,,8/1/2015
+8,Business,First  ,,,,,,,8/1/2015
+6,Business,Business  ,,,,,,,8/1/2015
+8,Family Leisure,Economy  ,,,,,,,8/1/2015
+2,Couple Leisure,Economy  ,,,,,,,8/1/2015
+8,Solo Leisure,Business  ,,,,,,,8/1/2015
+10,Family Leisure,Economy  ,,,,,,,8/1/2015
+8,Couple Leisure,Economy  ,,,,,,,8/1/2015
+3,Family Leisure,Business  ,,,,,,,8/1/2015
+3,Family Leisure,Business  ,,,,,,,8/1/2015
+9,Family Leisure,Business  ,,,,,,,8/1/2015
+1,Business,Business  ,,,,,,,8/1/2015
+3,Family Leisure,Economy  ,,,,,,,8/1/2015
+10,Family Leisure,Economy  ,,,,,,,8/1/2015
+4,Couple Leisure,Economy  ,,,,,,,8/1/2015
+10,Family Leisure,Business  ,,,,,,,8/1/2015
+9,Couple Leisure,Business  ,,,,,,,7/1/2015
+4,Business,Economy  ,,,,,,,5/1/2015
+1,Couple Leisure,Economy  ,,,,,,,8/1/2015
+2,Couple Leisure,First  ,,,,,,,7/1/2015
+1,Family Leisure,Economy  ,,,,,,,8/1/2015
+1,Family Leisure,Economy  ,,,,,,,8/1/2015
+7,Couple Leisure,Business  ,,,,,,,8/1/2015
+1,Couple Leisure,Business  ,,,,,,,8/1/2015
+9,Couple Leisure,Economy  ,,,,,,,8/1/2015
+10,Family Leisure,Business  ,,,,,,,7/1/2015
+8,Family Leisure,Economy  ,,,,,,,4/1/2015
+3,Family Leisure,Economy  ,,,,,,,6/1/2015
+7,Business,Business  ,,,,,,,9/1/2014
+4,Solo Leisure,Business  ,,,,,,,7/1/2015
+1,Solo Leisure,First  ,,,,,,,6/1/2015
+9,Solo Leisure,Economy  ,,,,,,,8/1/2015
+9,Couple Leisure,Business  ,,,,,,,8/1/2015
+7,Solo Leisure,Economy  ,,,,,,,7/1/2015
+9,Solo Leisure,Economy  ,,,,,,,8/1/2015
+1,Family Leisure,Economy  ,,,,,,,8/1/2015
+3,Business,Business  ,,,,,,,8/1/2015
+7,Solo Leisure,Economy  ,,,,,,,8/1/2015
+1,Solo Leisure,Economy  ,,,,,,,8/1/2015
+8,Solo Leisure,Economy  ,,,,,,,8/1/2015
+1,Solo Leisure,Economy  ,,,,,,,5/1/2015
+1,Couple Leisure,Economy  ,,,,,,,8/1/2015
+2,Business,Economy  ,,,,,,,7/1/2015
+6,Couple Leisure,Economy  ,,,,,,,6/1/2015
+8,Couple Leisure,Economy  ,,,,,,,7/1/2015
+1,Business,First  ,,,,,,,8/1/2015
+3,Family Leisure,Economy  ,,,,,,,8/1/2015
+1,Solo Leisure,Business  ,,,,,,,6/1/2015
+3,Business,Business  ,,,,,,,7/1/2015
+4,Family Leisure,Premium Economy,,,,,,,7/1/2015
+7,Couple Leisure,Premium Economy,,,,,,,7/1/2015
+3,Business,Economy  ,,,,,,,7/1/2015
+3,Couple Leisure,Economy  ,,,,,,,7/1/2015
+4,Business,Economy  ,,,,,,,7/1/2015
+2,Business,Business  ,,,,,,,7/1/2015
+4,Family Leisure,Premium Economy,,,,,,,7/1/2015
+7,Family Leisure,Economy  ,,,,,,,7/1/2015
+2,Solo Leisure,First  ,,,,,,,6/1/2015
+1,Business,First  ,,,,,,,7/1/2015
+10,Business,Economy  ,,,,,,,7/1/2015
+3,Business,Business  ,,,,,,,7/1/2015
+1,Couple Leisure,Economy  ,,,,,,,7/1/2015
+10,Business,Business  ,,,,,,,7/1/2015
+9,Business,Business  ,,,,,,,7/1/2015
+1,Business,Business  ,,,,,,,7/1/2015
+1,Couple Leisure,Business  ,,,,,,,7/1/2015
+7,Solo Leisure,Economy  ,,,,,,,7/1/2015
+8,Couple Leisure,Business  ,,,,,,,5/1/2015
+4,Business,Economy  ,,,,,,,7/1/2015
+3,Business,Economy  ,,,,,,,
+1,Solo Leisure,Economy  ,,,,,,,7/1/2015
+3,Couple Leisure,Economy  ,,,,,,,7/1/2015
+6,Solo Leisure,Economy  ,,,,,,,7/1/2015
+7,Family Leisure,Economy  ,,,,,,,7/1/2015
+7,Solo Leisure,Economy  ,,,,,,,7/1/2015
+7,Solo Leisure,Premium Economy,,,,,,,7/1/2015
+8,Couple Leisure,Business  ,,,,,,,5/1/2015
+3,Business,Business  ,,,,,,,7/1/2015
+6,Couple Leisure,First  ,,,,,,,7/1/2015
+8,Couple Leisure,Business  ,,,,,,,7/1/2015
+2,Solo Leisure,Economy  ,,,,,,,7/1/2015
+5,Couple Leisure,Economy  ,,,,,,,7/1/2015
+10,Solo Leisure,Business  ,,,,,,,6/1/2015
+10,Solo Leisure,First  ,,,,,,,7/1/2015
+4,Solo Leisure,Business  ,,,,,,,7/1/2015
+1,Solo Leisure,Economy  ,,,,,,,9/1/2014
+8,Family Leisure,Economy  ,,,,,,,6/1/2015
+3,Business,Economy  ,,,,,,,7/1/2015
+9,Solo Leisure,Business  ,,,,,,,12/1/2014
+8,Couple Leisure,Economy  ,,,,,,,5/1/2015
+4,Business,Business  ,,,,,,,7/1/2015
+3,Solo Leisure,Economy  ,,,,,,,7/1/2015
+8,Couple Leisure,Business  ,,,,,,,6/1/2015
+9,Family Leisure,Economy  ,,,,,,,5/1/2015
+1,Business,Economy  ,,,,,,,6/1/2015
+9,Family Leisure,Business  ,,,,,,,6/1/2015
+7,Couple Leisure,Premium Economy,,,,,,,5/1/2015
+3,Business,Business  ,,,,,,,7/1/2015
+5,Business,Business  ,,,,,,,7/1/2015
+3,Business,First  ,,,,,,,7/1/2015
+2,Business,Business  ,,,,,,,6/1/2015
+1,Business,Business  ,,,,,,,7/1/2015
+2,Business,Business  ,,,,,,,7/1/2015
+3,Family Leisure,Economy  ,,,,,,,6/1/2015
+10,Solo Leisure,Business  ,,,,,,,8/1/2014
+1,Business,Economy  ,,,,,,,6/1/2015
+1,Family Leisure,Economy  ,,,,,,,6/1/2015
+10,Solo Leisure,Economy  ,,,,,,,7/1/2015
+5,Family Leisure,Economy  ,,,,,,,7/1/2015
+1,Family Leisure,Economy  ,,,,,,,7/1/2015
+1,Family Leisure,Economy  ,,,,,,,6/1/2015
+2,Solo Leisure,Economy  ,,,,,,,6/1/2015
+6,Solo Leisure,Business  ,,,,,,,7/1/2015
+1,Couple Leisure,Economy  ,,,,,,,6/1/2015
+8,Solo Leisure,Economy  ,,,,,,,6/1/2015
+8,Family Leisure,Economy  ,,,,,,,10/1/2014
+3,Couple Leisure,Premium Economy,,,,,,,6/1/2015
+2,Solo Leisure,Economy  ,,,,,,,6/1/2015
+3,Couple Leisure,Economy  ,,,,,,,11/1/2014
+4,Couple Leisure,Economy  ,,,,,,,11/1/2014
+8,Solo Leisure,Business  ,,,,,,,6/1/2015
+3,Couple Leisure,Business  ,,,,,,,6/1/2015
+8,Couple Leisure,Business  ,,,,,,,6/1/2015
+8,Solo Leisure,Economy  ,,,,,,,6/1/2015
+4,Couple Leisure,Business  ,,,,,,,5/1/2015
+2,Couple Leisure,Economy  ,,,,,,,6/1/2015
+7,Business,Business  ,,,,,,,5/1/2015
+3,Solo Leisure,Economy  ,,,,,,,4/1/2015
+8,Business,Business  ,,,,,,,6/1/2015
+3,Solo Leisure,First  ,,,,,,,6/1/2015
+7,Couple Leisure,Business  ,,,,,,,6/1/2015
+10,Solo Leisure,First  ,,,,,,,6/1/2015
+1,Couple Leisure,Economy  ,,,,,,,5/1/2015
+9,Business,Business  ,,,,,,,7/1/2014
+1,Solo Leisure,,,,,,,,5/1/2015
+6,Couple Leisure,Business  ,,,,,,,6/1/2015
+8,Solo Leisure,Economy  ,,,,,,,6/1/2015
+6,Solo Leisure,Business  ,,,,,,,6/1/2015
+10,Couple Leisure,Economy  ,,,,,,,6/1/2015
+9,Solo Leisure,Economy  ,,,,,,,6/1/2015
+6,Solo Leisure,Economy  ,,,,,,,5/1/2015
+9,Couple Leisure,Economy  ,,,,,,,6/1/2015
+1,Business,Business  ,,,,,,,5/1/2015
+8,Solo Leisure,Economy  ,,,,,,,5/1/2015
+9,Solo Leisure,Business  ,,,,,,,6/1/2015
+9,Solo Leisure,Economy  ,,,,,,,6/1/2015
+10,Solo Leisure,Economy  ,,,,,,,5/1/2015
+4,Business,Business  ,,,,,,,
+5,Couple Leisure,Business  ,,,,,,,
+8,Business,Business  ,,,,,,,
+8,Family Leisure,Economy  ,,,,,,,
+7,Business,Business  ,,,,,,,
+5,Business,Business  ,,,,,,,
+3,Business,Premium Economy,,,,,,,
+7,Business,Business  ,,,,,,,
+8,Family Leisure,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+2,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+4,,Business  ,,,,,,,
+3,,First  ,,,,,,,
+2,,Business  ,,,,,,,
+4,,Economy  ,,,,,,,
+1,,Premium Economy,,,,,,,
+4,,Premium Economy,,,,,,,
+7,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+8,,Premium Economy,,,,,,,
+7,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+7,,Premium Economy,,,,,,,
+10,,Economy  ,,,,,,,
+2,,Premium Economy,,,,,,,
+1,,Business  ,,,,,,,
+8,,First  ,,,,,,,
+4,,,,,,,,,
+2,,Economy  ,,,,,,,
+5,,Premium Economy,,,,,,,
+3,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+8,,Premium Economy,,,,,,,
+9,,Economy  ,,,,,,,
+10,,First  ,,,,,,,
+3,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+9,,First  ,,,,,,,
+8,,Premium Economy,,,,,,,
+9,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+10,,First  ,,,,,,,
+8,,Premium Economy,,,,,,,
+10,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+1,,Business  ,,,,,,,
+7,,Premium Economy,,,,,,,
+2,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+6,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+8,,Premium Economy,,,,,,,
+10,,Business  ,,,,,,,
+10,,Premium Economy,,,,,,,
+9,,Business  ,,,,,,,
+5,,Business  ,,,,,,,
+2,,Premium Economy,,,,,,,
+10,,Economy  ,,,,,,,
+9,,First  ,,,,,,,
+9,,Business  ,,,,,,,
+10,,Premium Economy,,,,,,,
+9,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+10,,First  ,,,,,,,
+10,,Business  ,,,,,,,
+9,,Premium Economy,,,,,,,
+7,,Premium Economy,,,,,,,
+9,,Economy  ,,,,,,,
+10,,First  ,,,,,,,
+9,,First  ,,,,,,,
+10,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+2,,Premium Economy,,,,,,,
+10,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+3,,Economy  ,,,,,,,
+9,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+9,,Economy  ,,,,,,,
+7,,Premium Economy,,,,,,,
+9,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+3,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+6,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+8,,First  ,,,,,,,
+7,,Economy  ,,,,,,,
+4,,Economy  ,,,,,,,
+4,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+5,,Business  ,,,,,,,
+10,,Premium Economy,,,,,,,
+2,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+6,,Business  ,,,,,,,
+3,,Business  ,,,,,,,
+4,,First  ,,,,,,,
+7,,Business  ,,,,,,,
+3,,Premium Economy,,,,,,,
+4,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+1,,Business  ,,,,,,,
+3,,Economy  ,,,,,,,
+3,,Economy  ,,,,,,,
+10,,Premium Economy,,,,,,,
+7,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+9,,Premium Economy,,,,,,,
+10,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+5,,Business  ,,,,,,,
+9,,First  ,,,,,,,
+9,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+3,,Economy  ,,,,,,,
+4,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+6,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+8,,Premium Economy,,,,,,,
+9,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+1,,First  ,,,,,,,
+7,,First  ,,,,,,,
+7,,Economy  ,,,,,,,
+5,,Economy  ,,,,,,,
+5,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+3,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+5,,Economy  ,,,,,,,
+6,,Economy  ,,,,,,,
+3,,Business  ,,,,,,,
+5,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+6,,Business  ,,,,,,,
+4,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+2,,Business  ,,,,,,,
+4,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+5,,Economy  ,,,,,,,
+3,,Business  ,,,,,,,
+8,,Business  ,,,,,,,
+5,,Business  ,,,,,,,
+4,,Business  ,,,,,,,
+8,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+4,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+5,,First  ,,,,,,,
+9,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+10,,Premium Economy,,,,,,,
+8,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+1,,Premium Economy,,,,,,,
+2,,Economy  ,,,,,,,
+4,,Economy  ,,,,,,,
+3,,Premium Economy,,,,,,,
+7,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+5,,Business  ,,,,,,,
+4,,First  ,,,,,,,
+,,Economy  ,,,,,,,
+10,,First  ,,,,,,,
+9,,First  ,,,,,,,
+1,,Economy  ,,,,,,,
+2,,Premium Economy,,,,,,,
+1,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+3,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+3,,First  ,,,,,,,
+6,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+4,,Economy  ,,,,,,,
+6,,Premium Economy,,,,,,,
+10,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+4,,Business  ,,,,,,,
+8,,Business  ,,,,,,,
+6,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+8,,Premium Economy,,,,,,,
+2,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+8,,First  ,,,,,,,
+9,,First  ,,,,,,,
+9,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+5,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+2,,First  ,,,,,,,
+3,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+4,,Economy  ,,,,,,,
+4,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+5,,First  ,,,,,,,
+7,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+10,,First  ,,,,,,,
+10,,First  ,,,,,,,
+6,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+6,,Business  ,,,,,,,
+3,,Economy  ,,,,,,,
+3,,Economy  ,,,,,,,
+6,,Premium Economy,,,,,,,
+3,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+6,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+10,,First  ,,,,,,,
+1,,Economy  ,,,,,,,
+1,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+6,,Business  ,,,,,,,
+6,,First  ,,,,,,,
+8,,Business  ,,,,,,,
+7,,Premium Economy,,,,,,,
+4,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+9,,First  ,,,,,,,
+8,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+8,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+2,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+2,,Premium Economy,,,,,,,
+9,,First  ,,,,,,,
+5,,Economy  ,,,,,,,
+3,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+6,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+2,,Economy  ,,,,,,,
+4,,Business  ,,,,,,,
+3,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+6,,Premium Economy,,,,,,,
+10,,Business  ,,,,,,,
+8,,First  ,,,,,,,
+5,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+5,,Business  ,,,,,,,
+3,,Premium Economy,,,,,,,
+7,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+7,,Premium Economy,,,,,,,
+8,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+1,,Premium Economy,,,,,,,
+3,,First  ,,,,,,,
+6,,Premium Economy,,,,,,,
+4,,First  ,,,,,,,
+10,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+9,,Premium Economy,,,,,,,
+1,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+8,,First  ,,,,,,,
+2,,Business  ,,,,,,,
+3,,Economy  ,,,,,,,
+9,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+5,,Premium Economy,,,,,,,
+5,,Premium Economy,,,,,,,
+,,First  ,,,,,,,
+8,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+2,,Premium Economy,,,,,,,
+9,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+10,,Premium Economy,,,,,,,
+10,,Economy  ,,,,,,,
+8,,Premium Economy,,,,,,,
+4,,Economy  ,,,,,,,
+3,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+6,,Business  ,,,,,,,
+10,,First  ,,,,,,,
+8,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+4,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+,,Economy  ,,,,,,,
+1,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+6,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+8,,Business  ,,,,,,,
+4,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+4,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+8,,Business  ,,,,,,,
+10,,First  ,,,,,,,
+4,,Economy  ,,,,,,,
+6,,Business  ,,,,,,,
+5,,Business  ,,,,,,,
+6,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+3,,Economy  ,,,,,,,
+2,,First  ,,,,,,,
+6,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+6,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+1,,Premium Economy,,,,,,,
+9,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+9,,Premium Economy,,,,,,,
+9,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+3,,Business  ,,,,,,,
+4,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+3,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+4,,Economy  ,,,,,,,
+8,,Premium Economy,,,,,,,
+3,,First  ,,,,,,,
+8,,Business  ,,,,,,,
+3,,Economy  ,,,,,,,
+6,,Economy  ,,,,,,,
+6,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+1,,Premium Economy,,,,,,,
+4,,Economy  ,,,,,,,
+3,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+3,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+4,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+9,,Premium Economy,,,,,,,
+10,,Economy  ,,,,,,,
+1,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+7,,Premium Economy,,,,,,,
+1,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+5,,Economy  ,,,,,,,
+5,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+6,,Premium Economy,,,,,,,
+3,,Business  ,,,,,,,
+3,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+10,,Premium Economy,,,,,,,
+6,,Economy  ,,,,,,,
+8,,Premium Economy,,,,,,,
+4,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+4,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+4,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+1,,Premium Economy,,,,,,,
+1,,Economy  ,,,,,,,
+8,,First  ,,,,,,,
+2,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+9,,Economy  ,,,,,,,
+9,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+2,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+2,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+1,,Business  ,,,,,,,
+6,,Business  ,,,,,,,
+4,,Economy  ,,,,,,,
+3,,Premium Economy,,,,,,,
+1,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+3,,Premium Economy,,,,,,,
+7,,Premium Economy,,,,,,,
+9,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+7,,Premium Economy,,,,,,,
+9,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+1,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+2,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+8,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+5,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+9,,Premium Economy,,,,,,,
+10,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+1,,Business  ,,,,,,,
+1,,Premium Economy,,,,,,,
+1,,Premium Economy,,,,,,,
+7,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+7,,Premium Economy,,,,,,,
+1,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+5,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+8,,Premium Economy,,,,,,,
+4,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+6,,Business  ,,,,,,,
+5,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+2,,Premium Economy,,,,,,,
+1,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+4,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+2,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+3,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+3,,Economy  ,,,,,,,
+7,,First  ,,,,,,,
+6,,Economy  ,,,,,,,
+6,,First  ,,,,,,,
+1,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+9,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+3,,Business  ,,,,,,,
+4,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+4,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+9,,First  ,,,,,,,
+7,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+8,,Business  ,,,,,,,
+5,,Business  ,,,,,,,
+1,,Premium Economy,,,,,,,
+3,,Business  ,,,,,,,
+6,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+8,,Premium Economy,,,,,,,
+3,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+4,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+9,,First  ,,,,,,,
+3,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+6,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+5,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+4,,Business  ,,,,,,,
+,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+3,,Business  ,,,,,,,
+4,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+3,,Economy  ,,,,,,,
+9,,Economy  ,,,,,,,
+6,,Economy  ,,,,,,,
+7,,First  ,,,,,,,
+8,,Premium Economy,,,,,,,
+9,,Premium Economy,,,,,,,
+6,,Business  ,,,,,,,
+2,,Business  ,,,,,,,
+3,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+3,,Business  ,,,,,,,
+3,,Business  ,,,,,,,
+6,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+9,,Premium Economy,,,,,,,
+6,,Economy  ,,,,,,,
+,,Economy  ,,,,,,,
+10,,Premium Economy,,,,,,,
+7,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+5,,Premium Economy,,,,,,,
+10,,First  ,,,,,,,
+8,,First  ,,,,,,,
+8,,Premium Economy,,,,,,,
+7,,Economy  ,,,,,,,
+6,,Economy  ,,,,,,,
+10,,First  ,,,,,,,
+1,,Economy  ,,,,,,,
+8,,Premium Economy,,,,,,,
+9,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+5,,Business  ,,,,,,,
+4,,Business  ,,,,,,,
+2,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+6,,Premium Economy,,,,,,,
+5,,Business  ,,,,,,,
+5,,Premium Economy,,,,,,,
+7,,Business  ,,,,,,,
+5,,First  ,,,,,,,
+4,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+2,,Premium Economy,,,,,,,
+10,,Economy  ,,,,,,,
+6,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+2,,First  ,,,,,,,
+3,,Economy  ,,,,,,,
+9,,Premium Economy,,,,,,,
+5,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+5,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+3,,Business  ,,,,,,,
+2,,Business  ,,,,,,,
+5,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+7,,Economy  ,,,,,,,
+9,,Economy  ,,,,,,,
+2,,First  ,,,,,,,
+6,,Business  ,,,,,,,
+1,,Business  ,,,,,,,
+9,,Premium Economy,,,,,,,
+10,,Premium Economy,,,,,,,
+10,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+9,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+5,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+5,,Business  ,,,,,,,
+6,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+2,,Premium Economy,,,,,,,
+1,,Economy  ,,,,,,,
+5,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+4,,Business  ,,,,,,,
+2,,Business  ,,,,,,,
+9,,First  ,,,,,,,
+6,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+9,,Economy  ,,,,,,,
+8,,Economy  ,,,,,,,
+4,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+1,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+10,,First  ,,,,,,,
+6,,Business  ,,,,,,,
+2,,Economy  ,,,,,,,
+5,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+3,,Economy  ,,,,,,,
+6,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+6,,First  ,,,,,,,
+5,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+6,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+3,,Business  ,,,,,,,
+7,,Business  ,,,,,,,
+10,,Business  ,,,,,,,
+2,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+10,,First  ,,,,,,,
+1,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+6,,Economy  ,,,,,,,
+3,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+2,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+1,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+10,,Business  ,,,,,,,
+8,,Business  ,,,,,,,
+9,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+8,,Business  ,,,,,,,
+9,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+2,,Premium Economy,,,,,,,
+3,,Economy  ,,,,,,,
+2,,Premium Economy,,,,,,,
+8,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+7,,Business  ,,,,,,,
+6,,Economy  ,,,,,,,
+10,,Economy  ,,,,,,,
+10,,First  ,,,,,,,
+1,,Economy  ,,,,,,,
+2,,Business  ,,,,,,,
+8,,Business  ,,,,,,,
+8,,Economy  ,,,,,,,
+4,,Economy  ,,,,,,,
+4,,Economy  ,,,,,,,
+4,,Economy  ,,,,,,,
+6,,Business  ,,,,,,,
+8,,Premium Economy,,,,,,,
+5,,Business  ,,,,,,,
+10,,Economy  ,,,,,,,
+7,,Economy  ,,,,,,,
+4,,Business  ,,,,,,,
+1,,Economy  ,,,,,,,
+9,,Business  ,,,,,,,
+5,,Economy  ,,,,,,,
+4,,Premium Economy,,,,,,,
+4,,First  ,,,,,,,
