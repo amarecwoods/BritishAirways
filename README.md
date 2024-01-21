@@ -83,6 +83,18 @@ UnverifiedReview %>%
   )
 ```
 
+## Tableau Dashboard
+
+Explore the Tableau dashboard to visualize and interact with the British Airways reviews data:
+
+[Tableau Dashboard](https://public.tableau.com/views/BritishAirwaysReviews/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+## Kaggle Dataset
+
+The dataset used for this analysis is sourced from Kaggle. You can access and download the dataset from the following Kaggle link:
+
+[Kaggle Dataset](https://www.kaggle.com/datasets/praveensaik/british-airways-passenger-reviews-2016-2023)
+
 ### Conclusion
 
 This analysis provides insights into the average ratings of British Airways reviews, categorized by traveler type. The code and visualizations aim to facilitate a better understanding of customer sentiment and preferences.
