@@ -1,0 +1,47 @@
+install.packages('tidyverse')
+install.packages('extrafont')
+install.packages('googlesheets4')
+
+BA_Reviews <- read_csv('/Users/amarewoods/Downloads/BA_AirlineReviews.csv')
+head(BA_Reviews)
+Important_Reviews <- BA_Reviews %>% select(OverallRating, VerifiedReview,TypeOfTraveller, SeatType,Route, DateFlown)
+View(Important_Reviews)
+missinginfo <- !complete.cases(Important_Reviews)
+view(missinginfo)
+BAReviewsGrouped <- Important_Reviews %>% group_by(OverallRating, VerifiedReview)
+  view(BAReviewsGrouped)
+VerifiedReview <- subset(BAReviewsGrouped, VerifiedReview=='TRUE')
+view(VerifiedReview)
+#Averagerating by Type of Traveler Unverified 
+UnverifiedReview <- subset(BAReviewsGrouped, VerifiedReview == 'FALSE')
+view(UnverifiedReview)
+table(UnverifiedReview$TypeOfTraveller)
+ggplot(drop_na(UnverifiedReview), aes(x = TypeOfTraveller , y=OverallRating,fill=TypeOfTraveller)) + stat_summary(fun.y = "mean", geom = 'bar') + 
+  ggtitle('Unverified Reviews Average') + 
+  ylab('Average Rating') + 
+  xlab('Traveler Type') + 
+  theme(legend.position = 'none',
+        plot.title=element_text(face = "bold", size = 16, vjust=2, family = "Times New Roman"),
+        axis.title.x=element_text(vjust = -1, size = 14, family="Times New Roman"),
+        axis.title.y =element_text(vjust = -0.25, size=14, family = "Times New Roman"))
+
+#Avgverified
+view(VerifiedReview)
+table(VerifiedReview$TypeOfTraveller)
+ggplot(drop_na(VerifiedReview), aes(x = TypeOfTraveller , y=OverallRating,fill=TypeOfTraveller)) + stat_summary(fun.y = "mean", geom = 'bar') + 
+  ggtitle('Verified Reviews Average') + 
+  ylab('Average Rating') + 
+  xlab('Traveler Type') + 
+  theme(legend.position = 'none', 
+        plot.title=element_text(face = "bold", size = 16, vjust=2, family = "Times New Roman"),
+        axis.title.x=element_text(vjust = -1, size = 14, family="Times New Roman"),
+        axis.title.y =element_text(vjust = -0.25, size=14, family = "Times New Roman"))
+
+UnverifiedReview %>% 
+  write_sheet(
+    ss=gs4_get(
+      "https://docs.google.com/spreadsheets/d/1rNMh9oGjEe8LNvXRPleF59NIa8V2T4WhonQWMKo8Ipw/edit?usp=sharing"
+    ), 
+    sheet = 'Original'
+  )
+View(BA_Reviews)
